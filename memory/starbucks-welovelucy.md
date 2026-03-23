@@ -34,10 +34,44 @@
 
 ## Ownership Structure (WeLoveLucy LLC)
 - 9 partners total
-- Partner breakdown in spreadsheet: 20%, 20%, 15%, 20%, 5%, 8.5%, 5.5%, 3%, 3%
-- JB's stated share: 11% — NEED TO RECONCILE with spreadsheet
-- Diane (JB's aunt, ~75 years old): believed to be largest shareholder, ~20-89% range
+- Total capital account: $1,247,286
+
+| Partner | Capital | % | 2024 Distribution |
+|---|---|---|---|
+| Partner 1 | $249,470 | 20.00% | $18,795 |
+| Partner 2 | $249,619 | 20.01% | $18,794 |
+| Partner 3 | $187,213 | 15.01% | $14,096 |
+| Partner 4 | $249,470 | 20.00% | $18,795 |
+| Partner 5 | $61,987 | 4.97% | $4,698 |
+| Partner 6 | $106,107 | 8.51% | $8,458 |
+| Partner 7 | $68,523 | 5.49% | $4,699 |
+| Partner 8 | $37,453 | 3.00% | $2,819 |
+| Partner 9 | $37,444 | 3.00% | $2,819 |
+
+- JB's stated share: 11% — closest match is Partner 6 (8.51%) + something, or Partner 7 (5.49%) + something
+- **NEED TO CONFIRM: Which partner number is JB? Which is Diane?**
+- Diane (JB's aunt, ~75): believed to be one of the 20% partners
 - **Key decision maker: Diane** — old school, doesn't want debt, wants to preserve value
+
+## Current Financial Reality (from analysis spreadsheet)
+- Current NOI: $88,810/year (after taxes + insurance + other expenses)
+- Building value on books: $1,247,286 (total equity/capital accounts)
+- 2024 distributions paid: $93,973 total ($7,831/month to all partners)
+- **Current lease value at 7.5-8.5% cap (short lease): $1.04M-$1.18M**
+- **Value with new 10-year lease at 5.5-6.0% cap: $1.48M-$1.61M**
+- **Value creation from signing new lease: ~$430K**
+
+## Realistic Sale Scenarios
+| Scenario | Sale Price | Net Proceeds |
+|---|---|---|
+| Conservative (7.5% cap, short lease) | $1.18M | $1.11M |
+| Base case (6.0% cap, new lease) | $1.48M | $1.38M |
+| Upside (5.5% cap, new lease) | $1.61M | $1.51M |
+
+**JB's 11% of net proceeds:**
+- Conservative: ~$122K
+- Base case: ~$152K  
+- Upside: ~$166K
 
 ## Key Documents Built
 1. ✅ 1031 Exchange Family Analysis (Excel) — 5 sheets, full 10-year model
