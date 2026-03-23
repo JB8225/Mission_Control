@@ -73,3 +73,9 @@ After each autonomous task, append to `memory/nightly-work.md`:
 - [ ] Build the Service Sales Rep job description for GFS
 - [ ] Draft the first GFS SafeGuard customer email template
 - [ ] Research NICET certification requirements for Texas inspection techs
+- [ ] Research Clint Coons LLC structure for JB's RE portfolio (2 rentals + Starbucks + PE fund)
+- [ ] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property
+- [ ] Draft CPA talking points for POCO catch-up filing + Town Bluff bad debt write-off
+- [ ] Research top NNN commercial brokers in Missouri, Texas, Colorado specializing in Starbucks/QSR exits and 1031 exchanges — build a list of 5-10 with contact info
+- [ ] Research 1031 exchange strategy for Starbucks property — timing, replacement property criteria, timeline requirements
+- [ ] Build JB Personal Financial Statement (PFS) formatted for SBA banker submission
