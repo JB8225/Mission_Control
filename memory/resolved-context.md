@@ -49,6 +49,13 @@ Triggered during scorecard AND walkthrough when gaps are revealed:
 - Premium add-ons: legal review, notarization via partner
 - Physical printed version shipped to them (wallet cards already in PDF)
 
+## JB's Technical Level
+- Not a programmer — uses Claude Code to write all code
+- Comfortable with GitHub file overrides and uploads
+- Deploys frontend via Netlify
+- Backend on Railway
+- Does NOT write code from scratch — needs clear instructions + copy-paste files
+
 ## Tech Stack
 - FastAPI (backend)
 - Supabase (database)
