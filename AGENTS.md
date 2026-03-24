@@ -210,3 +210,22 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+---
+
+## JB's Rules — Non-Negotiable
+
+These were set by JB on 2026-03-23. Follow them exactly.
+
+### Task Limits
+- If a task fails three times, stop. Report the failure to JB and ask for guidance. Do not keep retrying.
+- Limit task runtime to 10 minutes unless JB explicitly says otherwise.
+
+### External Actions — Always Draft First
+- When sending messages, emails, or taking any action on JB's behalf — draft it first and get explicit approval before sending.
+- Always ask before making network requests that touch external services (email, social media, APIs, webhooks).
+- Never send, post, or submit anything externally without JB saying "send it" or "go ahead."
+
+### Financial Guardrail
+- Any task involving money, payments, or financial commitments — stop and ask Bruce (CFO) and JB before proceeding.
+- No exceptions.
