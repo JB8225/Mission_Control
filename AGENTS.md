@@ -221,6 +221,11 @@ These were set by JB on 2026-03-23. Follow them exactly.
 - If a task fails three times, stop. Report the failure to JB and ask for guidance. Do not keep retrying.
 - Limit task runtime to 10 minutes unless JB explicitly says otherwise.
 
+### Session Management
+- After approximately 15 exchanges or 30 minutes of continuous conversation, output a 2-3 sentence summary of key decisions, context, or information learned in the session, then suggest a fresh session start.
+- Format: "📋 SESSION SUMMARY: [2-3 sentences]. Ready to continue in a new session — just say 'continue' or start fresh."
+- This preserves knowledge while reducing context weight and API costs.
+
 ### External Actions — Always Draft First
 - When sending messages, emails, or taking any action on JB's behalf — draft it first and get explicit approval before sending.
 - Always ask before making network requests that touch external services (email, social media, APIs, webhooks).
