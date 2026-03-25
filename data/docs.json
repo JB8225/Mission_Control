@@ -6,6 +6,7 @@
       "category": "GFS",
       "type": "Playbook",
       "date": "2026-03-23",
+      "url": "https://docs.google.com/document/d/1miH_7Kg3BpflI85nSxUl54AHBIdTUCsw/edit?usp=sharing",
       "content": "Executive summary for SBA lenders. Highlights $19.1M revenue, $2.94M EBITDA, 2.32x DSCR, strong management team, and recurring service contracts. Designed to get a banker pre-qual call within 48 hours."
     },
     {
@@ -13,16 +14,18 @@
       "title": "Woody One-Pager (Cash Offer Rebuttal)",
       "category": "GFS",
       "type": "Playbook",
-      "content": "Counters Woody's preference for cash offers. Shows how SBA-backed deal provides better net proceeds, tax advantages, and continued involvement. Includes side-by-side comparison.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://docs.google.com/document/d/1bYZECNElqUZMM_rVsjQCHetZfLc9fU2z/edit?usp=share_link",
+      "content": "Counters Woody's preference for cash offers. Shows how SBA-backed deal provides better net proceeds, tax advantages, and continued involvement. Includes side-by-side comparison."
     },
     {
       "id": 3,
       "title": "GFS SafeGuard Program",
       "category": "GFS",
       "type": "Strategy",
-      "content": "Recurring revenue subscription model for fire protection maintenance. Monthly monitoring, priority service, annual inspections. Target: Convert 40% of one-time customers to $99-299/month plans.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://docs.google.com/document/d/1ScNnhgQU_4bfqXpLXwPveLXNxWTifLdc/edit?usp=share_link",
+      "content": "Recurring revenue subscription model for fire protection maintenance. Monthly monitoring, priority service, annual inspections. Target: Convert 40% of one-time customers to $99-299/month plans."
     },
     {
       "id": 4,
@@ -55,6 +58,15 @@
       "type": "Reference",
       "content": "List of 11 fire protection companies in the DFW metroplex identified as potential tuck-in acquisitions. Includes estimated revenue, employee count, service area, and strategic rationale for each.",
       "date": "2026-03-23"
+    },
+    {
+      "id": 10,
+      "title": "NNN Broker List",
+      "category": "Finance",
+      "type": "Reference",
+      "date": "2026-03-24",
+      "url": "https://docs.google.com/document/d/1hCvoqxwlm-WEQe3ON6BCldc-BP7Wx-zb/edit?usp=share_link",
+      "content": "Top 5 NNN brokers in MO, TX, CO specializing in Starbucks/QSR exits and 1031 exchanges. Includes names, direct phones, emails, and recommended first-call strategy."
     },
     {
       "id": 8,
