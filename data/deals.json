@@ -1,0 +1,29 @@
+{
+  "pipeline": [
+    { "id": "prequal", "label": "Pre-Qual", "active": true },
+    { "id": "loi", "label": "LOI", "active": false },
+    { "id": "duediligence", "label": "Due Diligence", "active": false },
+    { "id": "sba", "label": "SBA Application", "active": false },
+    { "id": "closing", "label": "Closing", "active": false },
+    { "id": "postclose", "label": "Post-Close", "active": false }
+  ],
+  "currentStage": "prequal",
+  "checklist": [
+    { "id": 1, "text": "Tax returns ready", "done": true },
+    { "id": 2, "text": "Benji called Woody", "done": true },
+    { "id": 3, "text": "Deal structure built", "done": true },
+    { "id": 4, "text": "Banker pre-qual", "done": false, "blocking": true },
+    { "id": 5, "text": "Woody meeting scheduled", "done": false, "blocking": false }
+  ],
+  "stats": [
+    { "label": "Purchase Price", "value": "$10M" },
+    { "label": "Revenue", "value": "$19.1M" },
+    { "label": "EBITDA", "value": "$2.94M" },
+    { "label": "DSCR", "value": "2.32x" },
+    { "label": "Target Close", "value": "90-120 days" }
+  ],
+  "contacts": [
+    { "name": "John Randall", "company": "Live Oak Bank", "phone": "317-775-0344" },
+    { "name": "Kirk Beason", "company": "Veritex", "phone": "972-707-4109" }
+  ]
+}

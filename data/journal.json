@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "date": "2026-03-23",
+      "title": "First Session with Ace",
+      "content": "First session with Ace. Covered GFS acquisition in depth (read 9 deal docs + 3 years financials), built banker call prep, analyzed credit profile, designed Resolved funnel, built SafeGuard subscription program, mapped 10-year platform vision, identified 11 DFW acquisition targets, built Woody growth pitch, set up Notion dashboard, designed Mission Control."
+    }
+  ],
+  "longTermMemory": [
+    {
+      "category": "JB — Personal",
+      "facts": [
+        "Full name: JB",
+        "Role: CEO, One Buck Capital",
+        "Based in DFW (Dallas-Fort Worth), Texas",
+        "Goal: Build a $100M portfolio",
+        "FICO: 698, targeting 750+"
+      ]
+    },
+    {
+      "category": "GFS Fire Pros",
+      "facts": [
+        "Fire protection services company",
+        "Revenue: $19.1M, EBITDA: $2.94M",
+        "Owner: Woody",
+        "Target purchase price: $10M via SBA 7(a)",
+        "DSCR: 2.32x",
+        "Current stage: Pre-qualification (banker call needed)",
+        "Key banker: John Randall at Live Oak Bank"
+      ]
+    },
+    {
+      "category": "Resolved Family",
+      "facts": [
+        "Family dispute resolution platform",
+        "Current MRR: $0, targeting $5K/month",
+        "Status: Pre-launch, funnel built",
+        "Blocker: Webhook integration needs fixing",
+        "Next step: Beta launch to 20-50 users"
+      ]
+    },
+    {
+      "category": "The Scam Hotline",
+      "facts": [
+        "Consumer protection / scam awareness brand",
+        "Book written, Sally (AI) is live",
+        "Revenue: TBD",
+        "Status: Monetization strategy needed"
+      ]
+    }
+  ]
+}

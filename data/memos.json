@@ -1,0 +1,13 @@
+{
+  "memos": [
+    {
+      "id": 1,
+      "date": "2026-03-23",
+      "topic": "Full Portfolio Review",
+      "author": "R&D Team",
+      "confidence": "High",
+      "recommendation": "Fix the Resolved webhook before spending a dollar on ads. The product is ready. The plumbing is broken. One engineering session unlocks $5K/month.",
+      "fullContent": "NIGHTLY R&D MEMO — March 23, 2026\n\nTopic: Full Portfolio Review\nConfidence Level: High\n\nEXECUTIVE SUMMARY:\nAfter reviewing all three portfolio companies, the highest-ROI action item is fixing the Resolved webhook. The product funnel is built, the subscription model is designed, and beta users are identified. The only blocker is a broken webhook endpoint that prevents form submissions from reaching the CRM.\n\nKEY FINDINGS:\n\n1. GFS Fire Pros — Deal is strong but blocked on banker pre-qualification. DSCR of 2.32x is excellent. Recommend calling Live Oak Bank this week.\n\n2. Resolved Family — Product is ready for beta. Webhook fix is a 1-2 hour engineering task. Once fixed, beta launch to 20-50 users can happen immediately. Conservative estimate: $5K MRR within 60 days.\n\n3. The Scam Hotline — Sally is live and the book is written. Monetization path is unclear. Recommend parking this until GFS and Resolved are generating revenue.\n\nRECOMMENDATION:\nFix the Resolved webhook before spending a dollar on ads. The product is ready. The plumbing is broken. One engineering session unlocks $5K/month.\n\nNEXT STEPS:\n- Schedule webhook fix session (Priority 1)\n- Call Live Oak Bank for GFS pre-qual (Priority 2)\n- Pay down Chase card to improve FICO for SBA application (Priority 3)"
+    }
+  ]
+}

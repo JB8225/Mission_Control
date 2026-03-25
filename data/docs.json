@@ -1,0 +1,76 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "title": "GFS Banker Teaser One-Pager",
+      "category": "GFS",
+      "type": "Playbook",
+      "date": "2026-03-23",
+      "content": "Executive summary for SBA lenders. Highlights $19.1M revenue, $2.94M EBITDA, 2.32x DSCR, strong management team, and recurring service contracts. Designed to get a banker pre-qual call within 48 hours."
+    },
+    {
+      "id": 2,
+      "title": "Woody One-Pager (Cash Offer Rebuttal)",
+      "category": "GFS",
+      "type": "Playbook",
+      "content": "Counters Woody's preference for cash offers. Shows how SBA-backed deal provides better net proceeds, tax advantages, and continued involvement. Includes side-by-side comparison.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 3,
+      "title": "GFS SafeGuard Program",
+      "category": "GFS",
+      "type": "Strategy",
+      "content": "Recurring revenue subscription model for fire protection maintenance. Monthly monitoring, priority service, annual inspections. Target: Convert 40% of one-time customers to $99-299/month plans.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 4,
+      "title": "GFS 6mo/2yr/5yr Game Plan",
+      "category": "GFS",
+      "type": "Strategy",
+      "content": "6 months: Close acquisition, stabilize ops, launch SafeGuard. 2 years: $30M revenue via organic + 2 tuck-in acquisitions. 5 years: $50M revenue, regional dominance in DFW fire protection.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 5,
+      "title": "Banker Call Prep + Script",
+      "category": "GFS",
+      "type": "Playbook",
+      "content": "Step-by-step script for the Live Oak Bank pre-qualification call. Covers: introduction, deal overview, financials summary, borrower profile, key questions to ask, and follow-up action items.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 6,
+      "title": "Woody Growth Pitch",
+      "category": "GFS",
+      "type": "Playbook",
+      "content": "Pitch deck for Woody showing GFS growth trajectory under new ownership. Highlights SafeGuard program, territory expansion, fleet optimization, and technology upgrades. Projects 2.5x revenue in 5 years.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 7,
+      "title": "GFS Acquisition Targets (11 DFW Companies)",
+      "category": "GFS",
+      "type": "Reference",
+      "content": "List of 11 fire protection companies in the DFW metroplex identified as potential tuck-in acquisitions. Includes estimated revenue, employee count, service area, and strategic rationale for each.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 8,
+      "title": "JB Credit Payoff Plan",
+      "category": "Finance",
+      "type": "Reference",
+      "content": "Strategic credit optimization plan. Priority 1: Pay Chase 7907 down to $1,450 (reduces utilization from 48% to 10%). Priority 2: Pay USAA 9465 before April 14 deadline. Target: Overall utilization under 15%, FICO 750+ within 60 days.",
+      "date": "2026-03-23"
+    },
+    {
+      "id": 9,
+      "title": "Resolved Webhook Fix Instructions",
+      "category": "Resolved",
+      "type": "Technical",
+      "content": "The Resolved webhook endpoint is returning 500 errors on form submission. Root cause: The endpoint URL changed after the last deployment. Fix: Update the webhook URL in the settings dashboard, verify with a test submission, then confirm data flows to the CRM.",
+      "date": "2026-03-23"
+    }
+  ]
+}

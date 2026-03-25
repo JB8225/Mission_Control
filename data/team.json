@@ -1,0 +1,152 @@
+{
+  "mission": "Build a $100M portfolio through smart acquisitions, recurring revenue, and an autonomous AI team that works 24/7.",
+  "agents": [
+    {
+      "id": "ace",
+      "name": "Ace",
+      "letter": "A",
+      "role": "CEO / Chief of Staff",
+      "description": "Runs the entire operation. Morning briefs, daily logs, nightly autonomous work, Notion updates. The one agent that never sleeps.",
+      "specialty": "Operations, strategy, coordination, morning briefs, daily logs",
+      "model": "Claude Sonnet 4",
+      "status": "Always On",
+      "color": "#C9A84C",
+      "emoji": "🎯",
+      "tier": "executive"
+    },
+    {
+      "id": "blaze",
+      "name": "Blaze",
+      "letter": "B",
+      "role": "Fire Protection Industry Specialist",
+      "description": "Knows the fire protection industry cold. Monitors competitors, tracks M&A activity, supports the GFS acquisition, and owns the SafeGuard subscription program strategy.",
+      "specialty": "GFS acquisition, fire suppression industry intel, SafeGuard program, DFW M&A targets",
+      "model": "Claude Sonnet 4",
+      "status": "Active",
+      "color": "#F97316",
+      "emoji": "🔥",
+      "tier": "executive",
+      "primaryFocus": "GFS banker pre-qual and Woody meeting preparation"
+    },
+    {
+      "id": "clara",
+      "name": "Clara",
+      "letter": "C",
+      "role": "CMO / Chief Marketing Officer",
+      "description": "Bilingual Latino market specialist. Owns the Resolved funnel, Meta ads, Scam Hotline content, Fooled book launch, and the Benji Gil film marketing. Gets results, not impressions.",
+      "specialty": "Latino market specialist, Meta ads, Resolved funnel, Scam Hotline content, film marketing",
+      "model": "Claude Sonnet 4",
+      "status": "Active",
+      "color": "#8B5CF6",
+      "emoji": "✨",
+      "tier": "executive",
+      "primaryFocus": "Resolved Family launch — first 50 paying customers"
+    },
+    {
+      "id": "bruce",
+      "name": "Bruce",
+      "letter": "D",
+      "role": "CFO / Chief Financial Officer",
+      "description": "Doesn't smile unless the numbers are moving in the right direction. No purchase over $1K without his sign-off. Statements uploaded 1st and 15th — no exceptions. Every dollar either builds a business or reduces a liability.",
+      "specialty": "Accounting, cash flow, tax deadlines, large purchase review, monthly P&L across all entities",
+      "model": "Claude Sonnet 4",
+      "status": "Active",
+      "color": "#10B981",
+      "emoji": "💰",
+      "tier": "executive",
+      "trigger": "1st and 15th of every month — JB uploads bank statements",
+      "agreement": [
+        "Statements uploaded 1st AND 15th. No exceptions.",
+        "No purchase over $1,000 without sign-off first.",
+        "Savings off-limits unless Ace and Bruce both agree.",
+        "Every dollar builds a business or reduces a liability.",
+        "Tracks $25K/month goal — reports progress every session."
+      ]
+    },
+    {
+      "id": "maverick",
+      "name": "Maverick",
+      "letter": "R&D",
+      "role": "Growth & Revenue Analyst",
+      "description": "You're leaving money on the table. Here's where.",
+      "specialty": "Pricing, funnels, conversion, upsell, new revenue streams",
+      "model": "Claude Sonnet 4",
+      "status": "Nightly",
+      "color": "#EF4444",
+      "emoji": "🔴",
+      "tier": "rnd"
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "letter": "R&D",
+      "role": "Strategy & Competitive Intelligence",
+      "description": "Here's what your competitors did this week. Should you be worried?",
+      "specialty": "Market position, competitive threats, M&A, industry trends",
+      "model": "Claude Sonnet 4",
+      "status": "Nightly",
+      "color": "#3B82F6",
+      "emoji": "🔵",
+      "tier": "rnd"
+    },
+    {
+      "id": "forge",
+      "name": "Forge",
+      "letter": "R&D",
+      "role": "Product & Technology",
+      "description": "This feature could double retention. Why haven't we built it?",
+      "specialty": "Tech stack, product features, automation, AI integration",
+      "model": "Claude Sonnet 4",
+      "status": "Nightly",
+      "color": "#10B981",
+      "emoji": "🟢",
+      "tier": "rnd"
+    },
+    {
+      "id": "ledger",
+      "name": "Ledger",
+      "letter": "R&D",
+      "role": "Finance & Risk",
+      "description": "That sounds great. Here's what the P&L actually says.",
+      "specialty": "Unit economics, margins, cash flow, debt structure, risk",
+      "model": "Claude Sonnet 4",
+      "status": "Nightly",
+      "color": "#F59E0B",
+      "emoji": "🟡",
+      "tier": "rnd"
+    },
+    {
+      "id": "compass",
+      "name": "Compass",
+      "letter": "R&D",
+      "role": "Operations & Execution",
+      "description": "Great idea. Who's doing it and by when?",
+      "specialty": "Hiring, systems, processes, bottlenecks, 30/60/90 sequencing",
+      "model": "Claude Sonnet 4",
+      "status": "Nightly",
+      "color": "#8B5CF6",
+      "emoji": "🟣",
+      "tier": "rnd"
+    }
+  ],
+  "comingSoon": [
+    {
+      "letter": "E",
+      "name": "TBD",
+      "role": "Real Estate Portfolio Manager",
+      "focus": "Poco Court, Buffalo Bend, Starbucks 1031, POCO LLC, Clint Coons structure"
+    },
+    {
+      "letter": "F",
+      "name": "TBD",
+      "role": "Film Executive Agent",
+      "focus": "Against the Order — script development, producer outreach, Hollywood strategy"
+    },
+    {
+      "letter": "G",
+      "name": "TBD",
+      "role": "Personal & Travel Agent",
+      "focus": "Travel planning, personal scheduling, family coordination"
+    }
+  ]
+}

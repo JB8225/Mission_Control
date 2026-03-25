@@ -1,0 +1,43 @@
+{
+  "cards": [
+    {
+      "name": "Discover",
+      "last4": "2624",
+      "balance": 796,
+      "limit": 10000,
+      "utilization": 8,
+      "color": "green",
+      "alert": null
+    },
+    {
+      "name": "USAA",
+      "last4": "9465",
+      "balance": 2663,
+      "limit": 27500,
+      "utilization": 10,
+      "color": "orange",
+      "alert": "PAY BEFORE APRIL 14"
+    },
+    {
+      "name": "Capital One",
+      "last4": "4298",
+      "balance": 2182,
+      "limit": 9856,
+      "utilization": 22,
+      "color": "green",
+      "alert": null
+    },
+    {
+      "name": "Chase",
+      "last4": "7907",
+      "balance": 7030,
+      "limit": 14529,
+      "utilization": 48,
+      "color": "red",
+      "alert": "PAY DOWN TO $1,450"
+    }
+  ],
+  "overallUtilization": 20,
+  "fico": { "current": 698, "target": 750 },
+  "deadline": "2026-04-14T00:00:00"
+}
