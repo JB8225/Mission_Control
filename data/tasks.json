@@ -4,20 +4,20 @@
       "id": "backlog",
       "title": "Backlog",
       "tasks": [
-        { "id": 1, "title": "Research SBA 7(a) loan requirements", "assignee": "Ace", "priority": "orange", "project": "GFS" },
         { "id": 2, "title": "Draft LOI template for GFS", "assignee": "Ace", "priority": "orange", "project": "GFS" },
         { "id": 3, "title": "Build Scam Hotline monetization plan", "assignee": "JB", "priority": "green", "project": "Scam Hotline" },
-        { "id": 4, "title": "Identify M&A attorney candidates", "assignee": "Ace", "priority": "orange", "project": "GFS" }
+        { "id": 4, "title": "Identify M&A attorney candidates", "assignee": "Ace", "priority": "orange", "project": "GFS" },
+        { "id": 16, "title": "Fix Resolved webhook integration", "assignee": "JB", "priority": "red", "project": "Resolved" },
+        { "id": 17, "title": "Finalize ownership % structure with attorney", "assignee": "JB", "priority": "orange", "project": "GFS" },
+        { "id": 18, "title": "Complete JB Personal Financial Statement (PFS)", "assignee": "JB", "priority": "orange", "project": "GFS" }
       ]
     },
     {
       "id": "in-progress",
       "title": "In Progress",
       "tasks": [
-        { "id": 5, "title": "Fix Resolved webhook integration", "assignee": "JB", "priority": "red", "project": "Resolved" },
-        { "id": 6, "title": "Prepare banker pre-qual documents", "assignee": "Ace", "priority": "red", "project": "GFS" },
-        { "id": 7, "title": "Pay down Chase card to $1,450", "assignee": "JB", "priority": "red", "project": "Finance" },
-        { "id": 8, "title": "Build GFS SafeGuard subscription program", "assignee": "Ace", "priority": "orange", "project": "GFS" }
+        { "id": 6, "title": "Call Live Oak Bank — banker pre-qual", "assignee": "JB", "priority": "red", "project": "GFS" },
+        { "id": 19, "title": "Pay USAA before April 14 deadline", "assignee": "JB", "priority": "red", "project": "Finance" }
       ]
     },
     {
@@ -26,7 +26,8 @@
       "tasks": [
         { "id": 9, "title": "GFS Banker Teaser One-Pager", "assignee": "Ace", "priority": "red", "project": "GFS" },
         { "id": 10, "title": "Woody One-Pager (Cash Offer Rebuttal)", "assignee": "Ace", "priority": "red", "project": "GFS" },
-        { "id": 11, "title": "Resolved beta funnel design", "assignee": "Ace", "priority": "orange", "project": "Resolved" }
+        { "id": 20, "title": "GFS Investor One-Pager ($400K raise)", "assignee": "Ace", "priority": "orange", "project": "GFS" },
+        { "id": 21, "title": "JB Personal Financial Statement (PFS)", "assignee": "Ace", "priority": "orange", "project": "GFS" }
       ]
     },
     {
@@ -36,18 +37,28 @@
         { "id": 12, "title": "Analyze GFS 3-year financials", "assignee": "Ace", "priority": "green", "project": "GFS" },
         { "id": 13, "title": "Build deal structure model", "assignee": "Ace", "priority": "green", "project": "GFS" },
         { "id": 14, "title": "Map 11 DFW acquisition targets", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 15, "title": "Design Mission Control dashboard", "assignee": "Ace", "priority": "green", "project": "GFS" }
+        { "id": 15, "title": "Design Mission Control dashboard", "assignee": "Ace", "priority": "green", "project": "GFS" },
+        { "id": 7, "title": "Pay down Chase card", "assignee": "JB", "priority": "green", "project": "Finance" },
+        { "id": 8, "title": "Build GFS SafeGuard subscription program", "assignee": "Ace", "priority": "green", "project": "GFS" },
+        { "id": 1, "title": "Research SBA 7(a) / Live Oak requirements", "assignee": "Ace", "priority": "green", "project": "GFS" },
+        { "id": 22, "title": "NNN broker research (Starbucks exit)", "assignee": "Ace", "priority": "green", "project": "Finance" },
+        { "id": 23, "title": "Wyoming LLC structure recommendation", "assignee": "Ace", "priority": "green", "project": "Finance" },
+        { "id": 24, "title": "DFW independent security partner research", "assignee": "Ace", "priority": "green", "project": "GFS" },
+        { "id": 25, "title": "Live Oak SBA pre-call briefing", "assignee": "Ace", "priority": "green", "project": "GFS" }
       ]
     }
   ],
   "activityFeed": [
-    { "time": "9:42 AM", "action": "Ace completed GFS 3-year financial analysis" },
-    { "time": "9:38 AM", "action": "Ace built Woody growth pitch deck" },
-    { "time": "9:30 AM", "action": "Ace mapped 11 DFW acquisition targets" },
-    { "time": "9:15 AM", "action": "Ace analyzed credit profile and built payoff plan" },
-    { "time": "9:00 AM", "action": "Ace reviewed 9 GFS deal documents" },
-    { "time": "8:45 AM", "action": "Ace designed Resolved subscription funnel" },
-    { "time": "8:30 AM", "action": "Ace built SafeGuard program structure" },
-    { "time": "8:00 AM", "action": "Session started — full portfolio review" }
+    { "time": "Mar 25", "action": "JB paid Chase 7907 down to $418 — utilization 3%" },
+    { "time": "Mar 25", "action": "Mission Control connected to GitHub + Netlify — live dashboard active" },
+    { "time": "Mar 25", "action": "Ace completed Live Oak SBA pre-call briefing" },
+    { "time": "Mar 24", "action": "Ace built GFS Investor One-Pager ($400K raise)" },
+    { "time": "Mar 24", "action": "Ace researched DFW independent security partners" },
+    { "time": "Mar 24", "action": "Ace built Wyoming LLC structure recommendation" },
+    { "time": "Mar 24", "action": "Ace researched top NNN brokers for Starbucks exit" },
+    { "time": "Mar 24", "action": "Ace built JB Personal Financial Statement (PFS)" },
+    { "time": "Mar 23", "action": "Ace analyzed GFS 3-year financials + deal structure" },
+    { "time": "Mar 23", "action": "Ace built GFS SafeGuard subscription program" },
+    { "time": "Mar 23", "action": "Ace mapped 11 DFW acquisition targets" }
   ]
 }
