@@ -76,6 +76,16 @@ export default function DocsLibrary() {
             </div>
             <div className="border-t border-card-border pt-4">
               <p className="text-slate-300 leading-relaxed whitespace-pre-wrap">{selectedDoc.content}</p>
+              {(selectedDoc as any).url && (
+                <a
+                  href={(selectedDoc as any).url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-gold/20 text-gold border border-gold/30 rounded-lg text-sm font-medium hover:bg-gold/30 transition-colors"
+                >
+                  📄 Open in Google Drive
+                </a>
+              )}
             </div>
           </div>
         </div>
