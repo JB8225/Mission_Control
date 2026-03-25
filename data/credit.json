@@ -3,16 +3,16 @@
     {
       "name": "Discover",
       "last4": "2624",
-      "balance": 796,
+      "balance": 878.87,
       "limit": 10000,
-      "utilization": 8,
+      "utilization": 9,
       "color": "green",
       "alert": null
     },
     {
       "name": "USAA",
       "last4": "9465",
-      "balance": 2663,
+      "balance": 2727.25,
       "limit": 27500,
       "utilization": 10,
       "color": "orange",
@@ -21,23 +21,23 @@
     {
       "name": "Capital One",
       "last4": "4298",
-      "balance": 2182,
-      "limit": 9856,
-      "utilization": 22,
+      "balance": 428.44,
+      "limit": 9546,
+      "utilization": 4,
       "color": "green",
       "alert": null
     },
     {
       "name": "Chase",
       "last4": "7907",
-      "balance": 7030,
+      "balance": 418.11,
       "limit": 14529,
-      "utilization": 48,
-      "color": "red",
-      "alert": "PAY DOWN TO $1,450"
+      "utilization": 3,
+      "color": "green",
+      "alert": null
     }
   ],
-  "overallUtilization": 20,
+  "overallUtilization": 7,
   "fico": { "current": 698, "target": 750 },
   "deadline": "2026-04-14T00:00:00"
 }
