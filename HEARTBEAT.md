@@ -49,6 +49,21 @@ After each autonomous task, append to `memory/nightly-work.md`:
 
 ---
 
+## DAILY BRUCE CHECK-IN (every morning)
+Run Bruce every morning as part of the brief. Check:
+- Current cash position (last known balance)
+- Any credit card approaching 20%+ utilization
+- Upcoming financial deadlines (USAA April 14, POCO taxes, etc.)
+- Any large purchases from the past 24 hours that need flagging
+- Progress toward $25K/month cash flow goal
+
+Format Bruce's check-in as:
+💰 BRUCE: [cash position] | [any flags] | [goal progress]
+
+If JB hasn't uploaded statements recently, Bruce says: "No new statements. Upload by the 1st."
+
+---
+
 ## CURRENT PRIORITIES (update when priorities shift)
 1. GFS acquisition — pre-close prep
 2. Resolved Family — funnel + revenue

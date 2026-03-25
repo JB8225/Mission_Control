@@ -59,3 +59,9 @@
 - Wyoming LLC: JB should decide DIY vs. Anderson Advisors based on property values before pulling the trigger
 - RapidFire Safety (security partner list): confirm ownership status before approaching — rebrand from SDS Security could signal PE involvement
 
+
+## 2026-03-25 — Live Oak Bank SBA Research
+**Why I did this:** Banker call is #1 RED item blocking the entire GFS acquisition. JB needs to know what Live Oak looks for before he picks up the phone.
+**What I did:** Researched Live Oak Bank's SBA 7(a) acquisition criteria in depth — FICO minimums (650 floor, 680+ preferred), DSCR standard (1.5x, highest in the industry), equity injection rules (10% min with seller note standby mechanics), industry experience policy (not required with management retention), loan structure for $10M deals (SBA $5M + conventional pari passu), common decline reasons, and how Live Oak compares to Huntington (fmr. Veritex). Ran GFS financials against all criteria. Key finding: GFS passes every quantitative filter with room to spare — DSCR 2.32x–2.97x vs. 1.5x requirement. The two soft risks (FICO 698, no fire industry experience) are manageable with proactive framing. Also confirmed Veritex was acquired by Huntington National Bank in Jan 2026 — JB's "Veritex option" is now Huntington, the #1 SBA lender in Texas.
+**Output:** `memory/live-oak-sba-research.md`
+**Next step for JB:** Call John Randall at Live Oak (317-775-0344). Lead with the 4 knockout data points: zero debt, 2.32x DSCR, 34% revenue growth, $12M contracted backlog. Own the FICO proactively. Don't wait to be asked.
