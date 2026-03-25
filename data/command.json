@@ -2,9 +2,9 @@
   "greeting": "Good morning, JB",
   "mission": "Build a $100M portfolio through smart acquisitions, recurring revenue, and an autonomous AI team that works 24/7.",
   "priorities": [
-    { "id": 1, "text": "Call Live Oak Bank — get banker pre-qual started", "done": false },
+    { "id": 1, "text": "Call Live Oak Bank — John Randall 317-775-0344 — banker pre-qual", "done": false },
     { "id": 2, "text": "Pay USAA $2,727 before April 14 — 0% promo expires", "done": false },
-    { "id": 3, "text": "Fix Resolved webhook — blocking beta launch", "done": false }
+    { "id": 3, "text": "Send NNN broker emails — 3 drafts ready at joel@bouckmail.com", "done": false }
   ],
   "scorecard": [
     { "label": "Monthly Cash Flow", "current": "$3,700", "target": "$25,000/mo", "status": "danger", "note": "24-month goal — before kids finish college" },
