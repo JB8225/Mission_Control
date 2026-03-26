@@ -32,16 +32,18 @@
       "title": "GFS 6mo/2yr/5yr Game Plan",
       "category": "GFS",
       "type": "Strategy",
-      "content": "6 months: Close acquisition, stabilize ops, launch SafeGuard. 2 years: $30M revenue via organic + 2 tuck-in acquisitions. 5 years: $50M revenue, regional dominance in DFW fire protection.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/gfs-gameplan.md",
+      "content": "6 months: Close acquisition, stabilize ops, launch SafeGuard. 2 years: $30M revenue via organic + 2 tuck-in acquisitions. 5 years: $50M revenue, regional dominance in DFW fire protection."
     },
     {
       "id": 5,
       "title": "Banker Call Prep + Script",
       "category": "GFS",
       "type": "Playbook",
-      "content": "Step-by-step script for the Live Oak Bank pre-qualification call. Covers: introduction, deal overview, financials summary, borrower profile, key questions to ask, and follow-up action items.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/banker-call-prep.md",
+      "content": "Step-by-step script for the Live Oak Bank pre-qualification call. Covers: introduction, deal overview, financials summary, borrower profile, key questions to ask, and follow-up action items."
     },
     {
       "id": 6,
@@ -53,12 +55,22 @@
       "content": "Pitch deck for Woody showing GFS growth trajectory under new ownership. Highlights SafeGuard program, territory expansion, fleet optimization, and technology upgrades. Projects 2.5x revenue in 5 years."
     },
     {
+      "id": 11,
+      "title": "Woody Meeting Agenda (Minute-by-Minute)",
+      "category": "GFS",
+      "type": "Playbook",
+      "date": "2026-03-26",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/woody-meeting-agenda.md",
+      "content": "Full 45-minute meeting playbook for the Woody sit-down. Covers pre-meeting checklist, value stack walkthrough, 3-minute growth pitch, objection handling with escalation ladder, closing question, and post-meeting follow-up protocol."
+    },
+    {
       "id": 7,
       "title": "GFS Acquisition Targets (11 DFW Companies)",
       "category": "GFS",
       "type": "Reference",
-      "content": "List of 11 fire protection companies in the DFW metroplex identified as potential tuck-in acquisitions. Includes estimated revenue, employee count, service area, and strategic rationale for each.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/gfs-acquisition-targets.md",
+      "content": "List of 11 fire protection companies in the DFW metroplex identified as potential tuck-in acquisitions. Includes estimated revenue, employee count, service area, and strategic rationale for each."
     },
     {
       "id": 10,
@@ -74,16 +86,27 @@
       "title": "JB Credit Payoff Plan",
       "category": "Finance",
       "type": "Reference",
-      "content": "Strategic credit optimization plan. Priority 1: Pay Chase 7907 down to $1,450 (reduces utilization from 48% to 10%). Priority 2: Pay USAA 9465 before April 14 deadline. Target: Overall utilization under 15%, FICO 750+ within 60 days.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/jb-credit-profile.md",
+      "content": "Strategic credit optimization plan. USAA paid in full 3/26. Chase at 3%. Overall utilization ~7%. Projected FICO 740-760. Next deadline: USAA statement balance $13,125.95 due April 9."
     },
     {
       "id": 9,
       "title": "Resolved Webhook Fix Instructions",
       "category": "Resolved",
       "type": "Technical",
-      "content": "The Resolved webhook endpoint is returning 500 errors on form submission. Root cause: The endpoint URL changed after the last deployment. Fix: Update the webhook URL in the settings dashboard, verify with a test submission, then confirm data flows to the CRM.",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/resolved-webhook-fix.md",
+      "content": "Fix: Redirect SamCart webhook to set session_paid=true in Supabase, send access email, then generate PDF only after walkthrough completion. One Claude Code session. This is the only blocker between Resolved and launch."
+    },
+    {
+      "id": 12,
+      "title": "R&D Memo — Resolved Pre-Launch Strategy",
+      "category": "Resolved",
+      "type": "R&D Memo",
+      "date": "2026-03-26",
+      "url": "https://raw.githubusercontent.com/JB8225/Mission_Control/main/docs/rnd-memo-2026-03-26.md",
+      "content": "All 5 analysts on Resolved pre-launch. Sprint: Fix webhook → 20-user beta → update sales page positioning (estate planning alternative framing) + $99 family plan order bump → $200 Meta test. Don't run ads before beta validates completion rate."
     }
   ]
 }
