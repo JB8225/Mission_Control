@@ -8,7 +8,7 @@
 | Card | Balance | Limit | Utilization | APR | Notes |
 |---|---|---|---|---|---|
 | Discover 2624 | ~$796 | $10,000 | 8% ✅ | 24.49% | Done — optimal |
-| USAA 9465 | $2,663 | $27,500 | 9.7% ✅ | 14.4% (0% promo until 4/14/26) | Good shape, pay before 4/14 |
+| USAA 9465 | $0 | $27,500 | 0% ✅ | 14.4% | PAID IN FULL 3/26/26. Statement bal $13,125.95 due 4/9/26 — check charges |
 | Capital One 4298 | $2,183 | ~$9,856 | 22% ✅ | unknown | Fine as-is |
 | Chase 7907 | $7,030 | ~$14,529 | **48%** ❌ | ~20% est. | Main problem card |
 

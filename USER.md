@@ -3,6 +3,7 @@
 - **Name:** Joel Bouck
 - **What to call them:** JB
 - **Timezone:** CST
+- **Phone:** 972-839-5364
 
 ## Context
 

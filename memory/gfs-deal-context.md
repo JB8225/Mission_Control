@@ -20,9 +20,9 @@
 - **Total value to Woody**: $14M–$16.4M (vs ~$9.76M net from a $14M cash sale after taxes/fees)
 - Woody rolls 18% equity in OpCo
 - Seller note: $2M at 6% → $38,666/mo for 60 months
-- Management equity pool: 22%
-- Investor group (Viking 90): 60%
-- JB: 10%
+- Management equity pool: 27%
+- Investor group (Viking 90): 40%
+- JB: 15%
 - Anchor number for Woody meeting: **$19M total value** (conservative projection)
 
 ## Recommended Financing: Scenario A (Max SBA Leverage)
@@ -61,6 +61,11 @@ Closing question: "Does this structure make sense to you? Is this something you'
 
 ## Investor Returns (Scenario A)
 - 5 shares @ $50K = $250K investor equity
-- Each share = 12% of company
+- Each share = ~8.8% of company (40% ÷ 4.5 shares — needs refinement)
 - 49x MOIC at base case (4.5x EBITDA exit)
 - Or 31x MOIC via Year 5 cash-out refi
+
+## ⚠️ Open Legal/Structural Questions (resolve with attorney)
+1. **Acquisition structure:** Buy 100% then roll equity back to Woody (standard SBA) — confirm with attorney before banker call
+2. **"Guaranteed $14M" language:** Remove from Woody pitch. Accurate framing: "$12.3M in cash + contractual payments ($10M close + $2.32M seller note). 18% equity is on top of that."
+3. **Investor share math:** 40% ÷ number of shares needs recalculation now that Viking 90 is 40% not 60%

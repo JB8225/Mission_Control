@@ -1,6 +1,6 @@
 # JB BOUCK — MASTER DASHBOARD
 ## One Buck Capital | Viking 90 Group
-*Updated by Ace after every session*
+*Updated by Ace — 2026-03-26*
 
 ---
 
@@ -8,18 +8,24 @@
 
 ### #1 — GFS Banker Call
 **Status:** NOT DONE — blocking everything
-**Action:** Call Live Oak (John Randall 317-775-0344) and Veritex (Kirk Beason 972-707-4109)
-**Why it matters:** Cannot meet Woody until pre-qual confirmed. This is the critical path.
+**Action:** Call John Randall (Live Oak) 317-775-0344 | Call Kirk Beason (Huntington, fmr Veritex) 972-707-4109
+**Goal:** Get the 30-minute meeting on calendar. Not pitching the deal — booking the meeting.
+**Script + voicemail ready in Mission Control**
 
-### #2 — Chase Credit Card
-**Status:** 48% utilization — hurting FICO
-**Action:** Pay down to ~$1,450 (from ~$7,030). Payment needed: ~$5,577
-**Why it matters:** Gets Chase under 10%, projects FICO to 740-760
+### #2 — Engage M&A Attorney
+**Status:** NOT DONE
+**Why now:** Two open structural questions need legal sign-off before banker call:
+1. Confirm 100% acquisition → equity rollback structure (standard SBA)
+2. Finalize ownership docs (Viking 90 40% | JB 15% | Mgmt 27% | Woody 18%)
 
-### #3 — USAA Card — DEADLINE APRIL 14
-**Status:** 0% promo expires April 14. Balance: $2,663
-**Action:** Pay before April 14 or start paying 14.4% APR
-**Deadline:** 3 weeks from today
+### #3 — Resolved Webhook Fix
+**Status:** NOT DONE — one Claude Code session
+**Action:** Open Claude Code, follow `resolved-webhook-fix.md` (in Mission Control)
+**Why:** Only blocker between Resolved and launch
+
+### #4 — Movie Producer Outreach
+**Status:** Draft ready — needs JB approval to send
+**Action:** Approve + send Mark Ciardi email (Wave 1). WBC timing is live — window is closing.
 
 ---
 
@@ -27,19 +33,26 @@
 
 ### GFS Acquisition
 **Stage:** Pre-close — financing
-**Next step:** Banker pre-qual → Woody meeting → due diligence → SBA close
-**Key docs ready:** Tax returns ✅ | Financials ✅ | Deal structure ✅ | Benji called Woody ✅
-**Missing:** Banker pre-qual, LLC structure finalized, attorney engaged
+**Next step:** Banker pre-qual → M&A attorney → Woody meeting → due diligence → SBA close
+**Key docs ready:** Tax returns ✅ | Financials ✅ | Deal structure ✅ | Benji called Woody ✅ | Woody agenda ✅
+**Missing:** Banker pre-qual, attorney engaged
 
 ### Resolved Family
-**Stage:** Funnel in build-out
+**Stage:** Pre-launch — one engineering blocker
 **Target:** $5K/month MRR
-**Status:** Not yet discussed in depth — on deck for next session
+**Blocker:** Webhook split (SamCart → walkthrough access → PDF on completion)
+**Sprint:** Webhook fix → 20-user beta → update positioning → $200 Meta test
 
 ### Credit / FICO
-**Current score:** 698
+**Current score:** 698 → projected 740-760 after cards report
 **Target:** 750 by June 2026
-**Status:** Discover ✅ USAA ✅ Cap One ✅ Chase ❌ (48% util)
+**Status:** Chase ✅ (3%) | Cap One ✅ (4%) | Discover ✅ (9%) | USAA ✅ PAID IN FULL 3/26
+**Next deadline:** USAA statement balance $13,125.95 due **April 9**
+
+### Heart of the Order (Movie)
+**Stage:** Pre-development. LOI signed 2/22/26.
+**Status:** Producer outreach email drafted (Mark Ciardi, Wave 1) — awaiting JB approval
+**Timing:** Benji managing Team Mexico in WBC NOW — live news hook, window is closing
 
 ---
 
@@ -47,33 +60,46 @@
 
 | Metric | Current | Target | Status |
 |---|---|---|---|
-| FICO Score | 698 | 750 | 🔴 In progress |
-| Resolved MRR | Unknown | $5,000/mo | 🔴 TBD |
+| FICO Score | 698 → ~750 projected | 750 | 🟡 Cards paid, awaiting report |
+| Resolved MRR | $0 | $5,000/mo | 🔴 Pre-launch |
 | GFS Deal Stage | Pre-banker | Closed | 🔴 Pre-qual needed |
 | Banker Pre-Qual | Not started | Done this week | 🔴 |
 | Woody Meeting | Not scheduled | This month | 🔴 After banker |
+| Mission Control | ✅ LIVE + current | Live + GitHub auto-deploy | 🟢 |
+| USAA Card | ✅ $0 | Paid | 🟢 |
 
 ---
 
-## 📁 PROJECT FILES
+## 📁 PROJECT FILES (all in Mission Control)
 
 ### GFS Fire Pros
 | File | Description |
 |---|---|
-| `memory/gfs-deal-context.md` | Full deal structure, terms, key people |
-| `memory/gfs-financials.md` | 3-year balance sheets, WIP analysis |
-| `memory/banker-call-prep.md` | Call script, questions, red flags, contacts |
-| `memory/gfs-gameplan.md` | 6mo / 2yr / 5yr plan with milestones |
-| `memory/gfs-growth-plan.md` | ITM recurring revenue strategy |
-| `memory/gfs-acquisition-targets.md` | 11 DFW acquisition targets |
-| `memory/woody-growth-pitch.md` | Vision pitch for Woody meeting |
-| `gfs-woody-one-pager.md` | Cash offer rebuttal leave-behind |
-| `gfs-safeguard-program.md` | Full SafeGuard subscription program |
+| `gfs-deal-context.md` | Full deal structure — ownership 100% confirmed |
+| `gfs-financials.md` | 3-year balance sheets, WIP analysis |
+| `banker-call-prep.md` | Call script, voicemail, questions, contacts |
+| `gfs-gameplan.md` | 6mo / 2yr / 5yr plan |
+| `woody-meeting-agenda.md` | 45-min Woody playbook — corrected language |
+| `gfs-safeguard-program.md` | SafeGuard subscription program |
+| `gfs-acquisition-targets.md` | 11 DFW tuck-in targets |
 
-### JB Personal
+### Resolved Family
 | File | Description |
 |---|---|
-| `memory/jb-credit-profile.md` | All 4 cards, balances, payoff plan |
+| `resolved-webhook-fix.md` | Exact fix instructions for Claude Code |
+| `rnd-memo-2026-03-26.md` | R&D Team analysis — full pre-launch sprint |
+
+### Finance
+| File | Description |
+|---|---|
+| `jb-credit-profile.md` | All 4 cards — USAA paid, April 9 deadline |
+| `nnn-brokers.md` | Top 5 NNN brokers for Starbucks exit |
+
+---
+
+## ⚠️ OPEN STRUCTURAL QUESTIONS (resolve with attorney)
+1. Acquisition structure: buying 100% then rolling 18% back to Woody — confirm before banker call
+2. Investor share math: 40% Viking 90 ÷ number of shares needs recalculation
 
 ---
 
@@ -81,7 +107,10 @@
 
 | Date | Key Topics |
 |---|---|
-| [2026-03-23](memory/2026-03-23.md) | First session. GFS deal, banker prep, credit strategy, SafeGuard program, 10-yr vision |
+| [2026-03-23](memory/2026-03-23.md) | First session. GFS deal, banker prep, credit strategy, SafeGuard, 10-yr vision, Mission Control |
+| [2026-03-24](memory/2026-03-24.md) | Autonomous work. PFS, NNN brokers, Wyoming LLC, security partners, investor one-pager |
+| [2026-03-25](memory/2026-03-25.md) | Mission Control live. Credit updated. NNN broker emails drafted. |
+| [2026-03-26](memory/2026-03-26.md) | Deal structure corrected. Woody pitch language fixed. Mission Control → GitHub raw. Movie timing. |
 
 ---
 
@@ -89,21 +118,21 @@
 
 ### 1. GFS Fire Pros (Acquisition — Pre-Close)
 - $10M purchase price | $19.1M revenue | $2.94M EBITDA
+- Ownership: Viking 90 40% | JB 15% | Mgmt 27% | Woody 18%
 - Target close: 90-120 days from banker pre-qual
 - 5-year refi at $25M+ valuation
-- 10-year exit at $75M revenue / $85-120M valuation
 
 ### 2. Resolved Family (resolvedfamily.com)
-- Emergency preparedness product
-- Stack: FastAPI, Supabase, SamCart, Claude API
-- Target: $5K/month MRR
-- Status: Funnel in build-out
+- Emergency preparedness product | FastAPI + Supabase + SamCart + Claude API
+- Target: $5K/month MRR | One blocker: webhook fix
 
 ### 3. The Scam Hotline (thescamhotline.org)
-- Advocacy + education
-- Book: "Fooled" | AI agent: Sally
-- Target: Growth + monetization
-- Status: Not yet discussed in depth
+- Book "Fooled" written | AI agent Sally live
+- Status: Parked until GFS + Resolved producing
+
+### 4. Heart of the Order (Movie)
+- LOI signed 2/22/26 | Benji Gil life rights
+- Producer outreach: Wave 1 draft ready (Mark Ciardi)
 
 ---
 
@@ -113,24 +142,10 @@
 |---|---|---|
 | Joel "JB" Bouck | Owner / Operator | Viking 90 Group, One Buck Capital |
 | Woody Jarmon | GFS Seller | 77 yrs old, in poor health, 40-yr founder |
-| Benji | Former GFS operator | Woody's trust bridge — called Woody ✅ |
+| Benji Gil | GFS trust bridge + Movie subject | Called Woody ✅ | Managing Team Mexico WBC |
 | Danny Martinez | GFS CFO | Staying post-close |
 | Mark Bryan | GFS President Sales | Staying post-close |
-| Diane | Woody's wife | Emotional anchor in deal conversations |
-| Buddy Carter LLC | GFS CPA | Prepared (not audited) financials |
-| John Randall | Live Oak Bank SVP | SBA pre-qual contact: 317-775-0344 |
-| Kirk Beason | Veritex Bank EVP SBA | DFW local: 972-707-4109 |
-
----
-
-## ⚙️ HOW THIS DASHBOARD WORKS
-
-**Ace updates this file after every session.**
-Every day we talk gets a log in `memory/YYYY-MM-DD.md`.
-This dashboard always reflects current status.
-
-**To find anything:**
-- "What did we discuss on [date]?" → check `memory/YYYY-MM-DD.md`
-- "Where are we on GFS?" → check scorecard above + `memory/gfs-deal-context.md`
-- "What's my credit situation?" → `memory/jb-credit-profile.md`
-- "What's the banker call plan?" → `memory/banker-call-prep.md`
+| Diane Jarmon | Woody's wife | Emotional anchor in deal |
+| John Randall | Live Oak Bank SVP | 317-775-0344 |
+| Kirk Beason | Huntington (fmr Veritex) EVP SBA | 972-707-4109 |
+| Mark Ciardi | Select Films | #1 movie producer target |

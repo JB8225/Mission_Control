@@ -71,7 +71,7 @@ Then break it down:
 4. **18% equity rollover** — "You stay in the company. Your 18% rides with everything we build."
 
 **Then make the comparison (only if he hesitates or mentions cash offer):**
-> "I know what a cash sale looks like. At $14M, after capital gains, depreciation recapture, and fees — you're walking away with maybe $9.7 million. Our structure puts $14 million guaranteed in your pocket before the equity even matters."
+> "I know what a cash sale looks like. At $14M, after capital gains, depreciation recapture, and fees — you're walking away with maybe $9.7 million. Our structure puts $12.3 million in your pocket in cash and contractual payments — $10 million at close, and a seller note that pays you $38,666 every month for 5 years. That's locked in. The 18% equity is on top of all of that."
 
 **Let it sit.** Don't rush. If he's quiet, stay quiet. Let him process.
 
@@ -119,7 +119,7 @@ His questions will tell you where he is:
 ### MINUTES 30–35: Handle the Objections
 
 **If he raises a cash offer:**
-> "Woody, let me show you something. At $14M cash, after capital gains at 20%, depreciation recapture at 25%, and fees — your take-home is roughly $9.7 million. Our structure delivers $14 million guaranteed to you, and that's before the equity grows. I'm not asking you to give up the cash — I'm asking you to get more of it."
+> "Woody, let me show you something. At $14M cash, after capital gains at 20%, depreciation recapture at 25%, and fees — your take-home is roughly $9.7 million. Our structure delivers $12.3 million in cash and contractual payments — $10 million at close plus your seller note. That beats a cash sale before the equity even enters the picture. I'm not asking you to give up cash — I'm asking you to get more of it."
 
 If he pushes harder on cash:
 - Increase seller note to $3M ($58K/mo)
