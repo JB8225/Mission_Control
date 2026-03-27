@@ -44,7 +44,7 @@
 **Sprint:** Webhook fix → 20-user beta → update positioning → $200 Meta test
 
 ### Credit / FICO
-**Current score:** 698 → projected 740-760 after cards report
+**Current score:** 720 → projected 740-760 after Chase reports
 **Target:** 750 by June 2026
 **Status:** Chase ✅ (3%) | Cap One ✅ (4%) | Discover ✅ (9%) | USAA ✅ PAID IN FULL 3/26
 **Next deadline:** USAA statement balance $13,125.95 due **April 9**
