@@ -1,6 +1,26 @@
 {
   "entries": [
     {
+      "date": "2026-03-27",
+      "title": "FICO hits 720 — crosses SBA threshold",
+      "content": "FICO updated to 720, up from 698. Crossed the SBA-preferred 720 threshold. USAA confirmed paid in full. Statement balance $13,125.95 due April 9. NNN broker outreach: Chris Schellin (Westwood) no response — following up with Jason Simon. Starbucks property off Chippewa, St. Louis — in active lease negotiations, planning 1031 exit in 2026. ABL outreach email drafted for GFS post-close revolving facility."
+    },
+    {
+      "date": "2026-03-26",
+      "title": "Deal structure corrected + Mission Control upgraded",
+      "content": "Ownership structure corrected and locked: Viking 90 40% | JB 15% | Management 27% | Woody 18% = 100%. Removed 'guaranteed $14M' language — corrected to $12.3M in cash + contractual payments. Veritex confirmed acquired by Huntington National Bank Jan 2026 — Kirk Beason now at Huntington. Mission Control upgraded: all doc links converted from Google Drive to GitHub raw URLs, auto-deploys via Netlify. Woody meeting agenda built (45-min minute-by-minute playbook). R&D Team ran full Resolved pre-launch analysis."
+    },
+    {
+      "date": "2026-03-25",
+      "title": "Live Oak SBA research complete + Mission Control goes live",
+      "content": "Researched Live Oak Bank SBA 7(a) acquisition criteria in depth. GFS passes every quantitative filter — DSCR 2.32x vs 1.5x requirement. FICO 698 and no fire industry experience are manageable soft risks. Chase card paid down to $418 (3% utilization). Mission Control connected to GitHub + Netlify — live dashboard active."
+    },
+    {
+      "date": "2026-03-24",
+      "title": "Overnight research session — 4 major deliverables",
+      "content": "Ace completed overnight research: (1) NNN broker list — top 5 brokers in MO/TX/CO for Starbucks/QSR exits and 1031 exchanges. (2) Wyoming LLC structure recommendation — Clint Coons 2-LLC strategy for rental portfolio. (3) DFW independent security partners — 5 non-PE-backed companies for GFS referral network. (4) GFS Investor One-Pager — $400K raise, 8% preferred, 3-5yr hold. JB Personal Financial Statement built — 9 sections, SBA-formatted."
+    },
+    {
       "date": "2026-03-23",
       "title": "First Session with Ace",
       "content": "First session with Ace. Covered GFS acquisition in depth (read 9 deal docs + 3 years financials), built banker call prep, analyzed credit profile, designed Resolved funnel, built SafeGuard subscription program, mapped 10-year platform vision, identified 11 DFW acquisition targets, built Woody growth pitch, set up Notion dashboard, designed Mission Control."
@@ -10,42 +30,60 @@
     {
       "category": "JB — Personal",
       "facts": [
-        "Full name: JB",
-        "Role: CEO, One Buck Capital",
+        "Full name: Joel 'JB' Bouck",
+        "Role: CEO, One Buck Capital / Viking 90 Group",
         "Based in DFW (Dallas-Fort Worth), Texas",
         "Goal: Build a $100M portfolio",
-        "FICO: 698, targeting 750+"
+        "FICO: 720 (updated 2026-03-27), targeting 750+ by June 2026",
+        "Phone: 972-839-5364"
       ]
     },
     {
       "category": "GFS Fire Pros",
       "facts": [
-        "Fire protection services company",
-        "Revenue: $19.1M, EBITDA: $2.94M",
-        "Owner: Woody",
-        "Target purchase price: $10M via SBA 7(a)",
-        "DSCR: 2.32x",
-        "Current stage: Pre-qualification (banker call needed)",
-        "Key banker: John Randall at Live Oak Bank"
+        "Commercial fire protection, DFW — 40-year company",
+        "Revenue: $19.1M (2025), up 34% YoY | EBITDA: $2.94M",
+        "Seller: Woody Jarmon, 77, poor health",
+        "Purchase price: $10M ($7.5M business + $2.5M RE)",
+        "Ownership post-close: Viking 90 40% | JB 15% | Mgmt 27% | Woody 18%",
+        "Financing: SBA 7(a) $5M + SBA 504 + seller note $1.15M",
+        "DSCR: 2.32x (full service) | 2.97x (standby)",
+        "Stage: Pre-banker call — everything else is ready",
+        "Key bankers: John Randall (Live Oak) 317-775-0344 | Kirk Beason (Huntington) 972-707-4109"
       ]
     },
     {
       "category": "Resolved Family",
       "facts": [
-        "Family dispute resolution platform",
+        "Emergency preparedness product | resolvedfamily.com",
+        "Stack: FastAPI + Supabase + SamCart + Claude API",
         "Current MRR: $0, targeting $5K/month",
-        "Status: Pre-launch, funnel built",
-        "Blocker: Webhook integration needs fixing",
-        "Next step: Beta launch to 20-50 users"
+        "One blocker: webhook fix (one Claude Code session)",
+        "Sprint: webhook fix → 20-user beta → update positioning → $200 Meta test"
       ]
     },
     {
       "category": "The Scam Hotline",
       "facts": [
         "Consumer protection / scam awareness brand",
-        "Book written, Sally (AI) is live",
-        "Revenue: TBD",
-        "Status: Monetization strategy needed"
+        "Book 'Fooled' written | AI agent Sally live",
+        "Status: Parked until GFS + Resolved producing revenue"
+      ]
+    },
+    {
+      "category": "Real Estate",
+      "facts": [
+        "Starbucks NNN — off Chippewa, St. Louis, MO | active lease negotiations | planning 1031 exit 2026",
+        "2x Fort Worth rental properties",
+        "Town Bluff property — POCO taxes, bad debt write-off flag"
+      ]
+    },
+    {
+      "category": "Heart of the Order (Movie)",
+      "facts": [
+        "LOI signed 2/22/26 | Benji Gil life rights",
+        "Wave 1 producer outreach: Mark Ciardi (Select Films) — draft ready, awaiting JB approval",
+        "WBC timing hook: Benji managing Team Mexico now"
       ]
     }
   ]
