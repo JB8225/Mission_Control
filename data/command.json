@@ -8,7 +8,7 @@
   ],
   "scorecard": [
     { "label": "Monthly Cash Flow", "current": "$3,700", "target": "$25,000/mo", "status": "danger", "note": "24-month goal — before kids finish college" },
-    { "label": "FICO Score", "current": "720", "target": "750", "status": "warning" },
+    { "label": "FICO Score", "current": "750 ✅", "target": "750", "status": "success" },
     { "label": "GFS Deal Stage", "current": "Pre-Banker", "target": "LOI", "status": "warning" },
     { "label": "Resolved MRR", "current": "$0", "target": "$5K", "status": "danger" },
     { "label": "Banker Status", "current": "Not Started", "target": "Pre-Qualified", "status": "danger" }
