@@ -49,6 +49,8 @@
     }
   ],
   "activityFeed": [
+    { "time": "Mar 27", "action": "FICO updated to 720 (up from 698) — crossed SBA threshold" },
+    { "time": "Mar 27", "action": "USAA paid in full — balance $0, statement $13,125.95 due April 9" },
     { "time": "Mar 25", "action": "JB paid Chase 7907 down to $418 — utilization 3%" },
     { "time": "Mar 25", "action": "Mission Control connected to GitHub + Netlify — live dashboard active" },
     { "time": "Mar 25", "action": "Ace completed Live Oak SBA pre-call briefing" },

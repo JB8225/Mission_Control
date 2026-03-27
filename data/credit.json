@@ -12,11 +12,11 @@
     {
       "name": "USAA",
       "last4": "9465",
-      "balance": 2727.25,
+      "balance": 0,
       "limit": 27500,
-      "utilization": 10,
-      "color": "orange",
-      "alert": "PAY BEFORE APRIL 14"
+      "utilization": 0,
+      "color": "green",
+      "alert": "Statement bal $13,125.95 due April 9"
     },
     {
       "name": "Capital One",
@@ -37,7 +37,7 @@
       "alert": null
     }
   ],
-  "overallUtilization": 7,
-  "fico": { "current": 698, "target": 750 },
-  "deadline": "2026-04-14T00:00:00"
+  "overallUtilization": 5,
+  "fico": { "current": 720, "target": 750 },
+  "deadline": "2026-04-09T00:00:00"
 }

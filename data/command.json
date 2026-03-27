@@ -3,12 +3,12 @@
   "mission": "Build a $100M portfolio through smart acquisitions, recurring revenue, and an autonomous AI team that works 24/7.",
   "priorities": [
     { "id": 1, "text": "Call Live Oak Bank — John Randall 317-775-0344 — banker pre-qual", "done": false },
-    { "id": 2, "text": "Pay USAA $2,727 before April 14 — 0% promo expires", "done": false },
+    { "id": 2, "text": "Pay USAA statement $13,125.95 by April 9", "done": false },
     { "id": 3, "text": "Send NNN broker emails — 3 drafts ready at joel@bouckmail.com", "done": false }
   ],
   "scorecard": [
     { "label": "Monthly Cash Flow", "current": "$3,700", "target": "$25,000/mo", "status": "danger", "note": "24-month goal — before kids finish college" },
-    { "label": "FICO Score", "current": "698", "target": "750", "status": "warning" },
+    { "label": "FICO Score", "current": "720", "target": "750", "status": "warning" },
     { "label": "GFS Deal Stage", "current": "Pre-Banker", "target": "LOI", "status": "warning" },
     { "label": "Resolved MRR", "current": "$0", "target": "$5K", "status": "danger" },
     { "label": "Banker Status", "current": "Not Started", "target": "Pre-Qualified", "status": "danger" }

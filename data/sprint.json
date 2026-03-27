@@ -7,7 +7,7 @@
         { "id": 1, "text": "Call Live Oak Bank", "done": false },
         { "id": 2, "text": "Get banker pre-qual", "done": false },
         { "id": 3, "text": "Pay down Chase to $1,450", "done": false },
-        { "id": 4, "text": "Pay USAA before April 14", "done": false },
+        { "id": 4, "text": "Pay USAA statement $13,125.95 by April 9", "done": false },
         { "id": 5, "text": "Fix Resolved webhook", "done": false },
         { "id": 6, "text": "Beta launch Resolved to 20-50 people", "done": false },
         { "id": 7, "text": "Schedule Woody meeting", "done": false }
@@ -21,7 +21,7 @@
         { "id": 9, "text": "Engage M&A attorney", "done": false },
         { "id": 10, "text": "Submit SBA application", "done": false },
         { "id": 11, "text": "Resolved: 50+ beta users, first paid customers", "done": false },
-        { "id": 12, "text": "FICO at 720+", "done": false }
+        { "id": 12, "text": "FICO at 720+ ✅ — now targeting 750", "done": true }
       ]
     },
     {
