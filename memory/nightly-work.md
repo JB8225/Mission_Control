@@ -71,3 +71,10 @@
 **What I did:** Built a complete 45-minute meeting playbook at `woody-meeting-agenda.md`. Covers: pre-meeting checklist (go/no-go gates), room setup + opening (minutes 0–5), framing script (5–10), value stack walkthrough (10–20), 3-minute growth pitch (20–23), listen phase with objection decoder table (23–30), full objection handling with escalation ladder (30–35), leave-behind + closing question (35–40), exit protocol (40–45), and post-meeting follow-up checklist.
 **Output:** `woody-meeting-agenda.md` — 208 lines, print-ready, committed to git.
 **Next step for JB:** Call John Randall at Live Oak (317-775-0344). That pre-qual unlocks the meeting. Everything else is ready.
+
+
+## 2026-03-27 — ABL Lender Outreach Email + Target List
+**Why I did this:** GFS acquisition needs a $2M–$4M revolving ABL facility against AR post-close. This was on the backlog and zero research needed — all deal context was in workspace files. Draft email ready accelerates banker conversations.
+**What I did:** Built a complete ABL outreach package: identified 5 lenders (Huntington, White Oak, Encina, Eclipse, Triumph), wrote a send-ready outreach email with deal stats + AR collateral profile, and wrote a verbal add-on script for Kirk Beason (fold the ABL ask into the SBA pre-qual call). No web search needed — everything pulled from existing deal context.
+**Output:** `memory/abl-outreach-draft.md`
+**Next step for JB:** (1) When you call Kirk Beason at Huntington for the SBA pre-qual, add the 3-sentence ABL ask at the end of the call — script is ready. (2) Review the outreach email — if it looks good, send to White Oak Business Capital or Encina Business Credit. Both are specialty ABL shops that know construction services AR cold.
