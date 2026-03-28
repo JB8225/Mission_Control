@@ -1,7 +1,7 @@
 # JB Credit Profile — March 2026
 
-## Current FICO: 698 (TransUnion, via Discover)
-## Target: 750 by June 2026
+## Current FICO: 750 (Experian, confirmed via screenshot 2026-03-27) ✅ TARGET HIT
+## Original Target: 750 by June 2026 — HIT 3 MONTHS EARLY
 
 ## Cards — Current State (as of ~March 23, 2026)
 

@@ -37,7 +37,7 @@
 ## Questions They Will Ask — Have Answers Ready
 
 1. **"What's your FICO and net worth?"**
-   - FICO: 698 now, 750 by June. Be upfront.
+   - FICO: 750 (Experian). Target hit. Lead with it.
    - Net worth: need your number
 
 2. **"What are you injecting?"**
@@ -80,7 +80,7 @@
 - Purchase price: $10M ($7.5M business + $2.5M real estate)
 
 ## Red Flags to Get Ahead Of
-- **FICO 698** — "I'm actively paying down utilization, projecting 750 by June"
+- **FICO 750** — No apology needed. Lead with it: "750 on Experian as of this week."
 - **Prepared statements, not audited** — "Tax returns available to verify"
 - **Credit card payable grew to $898K** — know if this is revolving or paid monthly
 - **Loss year in 2023** — "That was during a strategic growth investment year; 2024 reversed to $1.56M profit, 2025 was $2.55M"
