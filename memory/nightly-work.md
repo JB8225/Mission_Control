@@ -84,3 +84,9 @@
 **What I did:** Built 3 send-ready email templates for the SafeGuard conversion campaign: (1) cold outreach to existing GFS customers with no current service contract, (2) 3-day follow-up with compliance framing, (3) proposal follow-up after no response. Included rep notes on personalization (pull install year + system type from GFS job database), follow-up sequencing, and next steps.
 **Output:** `memory/safeguard-customer-emails.md`
 **Next step for JB:** These are ready for the Service Sales Rep to use on Day 1 post-close. Before that: get the GFS completed job list from Danny Martinez — that's the conversion database. Also need a proposal template (one-pager per building per tier) — add to backlog.
+
+## 2026-03-28 — GFS Service Sales Rep Job Description
+**Why I did this:** SafeGuard needs a dedicated sales rep on Day 1 post-close. The JD was on the backlog and all context was available — deal docs, SafeGuard program, comp structure. Zero research needed.
+**What I did:** Built a complete, post-ready job description for the GFS SafeGuard Service Sales Representative. Covers: role overview, day-to-day responsibilities, monthly targets (10 → 30 → 100 contracts), commission structure ($150–300/contract + residuals), OTE ($65K–$110K), candidate profile, and a "Why This Role Is Unusual" section that sells the warm-lead database angle. Notes for JB/Mark Bryan on what needs to be filled in before posting.
+**Output:** `memory/gfs-service-sales-rep-jd.md`
+**Next step for JB:** Share with Mark Bryan to confirm comp structure. Get Danny Martinez to identify where the completed-job database lives — that's the rep's prospect list. Post to Indeed + LinkedIn post-close.
