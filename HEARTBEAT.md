@@ -74,23 +74,23 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 ---
 
 ## TASK IDEAS BACKLOG (work through these)
-- [ ] Research Live Oak Bank SBA acquisition case studies — what do they look for?
-- [ ] Build the Woody meeting agenda (minute by minute)
-- [ ] Draft the ABL lender outreach email (ready to send)
+- [x] Research Live Oak Bank SBA acquisition case studies — what do they look for? ✅ (2026-03-25) → memory/live-oak-sba-research.md
+- [x] Build the Woody meeting agenda (minute by minute) ✅ (2026-03-26) → woody-meeting-agenda.md
+- [x] Draft the ABL lender outreach email (ready to send) ✅ (2026-03-27) → memory/abl-outreach-draft.md
 - [ ] Research InspectPoint pricing and setup requirements
-- [ ] Build a monitoring partner comparison table (Monitoring America vs COPS vs Affiliated)
+- [x] Build a monitoring partner comparison table (Monitoring America vs COPS vs Affiliated) ✅ (2026-03-28) → memory/monitoring-partner-comparison.md
 - [ ] Research Resolved Family competitors — what are they doing that's working?
-- [ ] Draft investor one-pager for the $400K raise
-- [ ] Build the GFS investor deck outline
+- [x] Draft investor one-pager for the $400K raise ✅ (2026-03-24) → gfs-investor-one-pager.md
+- [x] Build the GFS investor deck outline ✅ (2026-03-28) → memory/gfs-investor-deck-outline.md
 - [ ] Research Scam Hotline monetization models (courses, certifications, partnerships)
 - [ ] Find the top 5 emergency preparedness influencers on social for Resolved collab
 - [ ] Pull public financial data on FireTron Inc. (potential acquisition)
-- [ ] Build the Service Sales Rep job description for GFS
-- [x] Draft the first GFS SafeGuard customer email template ✅ (2026-03-28)
+- [x] Build the Service Sales Rep job description for GFS ✅ (2026-03-28) → memory/gfs-service-sales-rep-jd.md
+- [x] Draft the first GFS SafeGuard customer email template ✅ (2026-03-28) → memory/safeguard-customer-emails.md
 - [ ] Research NICET certification requirements for Texas inspection techs
-- [ ] Research Clint Coons LLC structure for JB's RE portfolio (2 rentals + Starbucks + PE fund)
-- [ ] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property
-- [ ] Draft CPA talking points for POCO catch-up filing + Town Bluff bad debt write-off
-- [ ] Research top NNN commercial brokers in Missouri, Texas, Colorado specializing in Starbucks/QSR exits and 1031 exchanges — build a list of 5-10 with contact info
+- [x] Research Clint Coons LLC structure for JB's RE portfolio (2 rentals + Starbucks + PE fund) ✅ (2026-03-24) → memory/llc-structure-recommendation.md
+- [x] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property ✅ (2026-03-24) → memory/llc-structure-recommendation.md
+- [x] Draft CPA talking points for POCO catch-up filing + Town Bluff bad debt write-off ✅ (2026-03-28) → memory/cpa-talking-points.md
+- [x] Research top NNN commercial brokers in Missouri, Texas, Colorado specializing in Starbucks/QSR exits and 1031 exchanges — build a list of 5-10 with contact info ✅ (2026-03-24) → memory/nnn-brokers.md
 - [ ] Research 1031 exchange strategy for Starbucks property — timing, replacement property criteria, timeline requirements
-- [ ] Build JB Personal Financial Statement (PFS) formatted for SBA banker submission
+- [x] Build JB Personal Financial Statement (PFS) formatted for SBA banker submission ✅ (2026-03-24) → jb-personal-financial-statement.md
