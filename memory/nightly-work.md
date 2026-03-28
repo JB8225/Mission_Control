@@ -78,3 +78,9 @@
 **What I did:** Built a complete ABL outreach package: identified 5 lenders (Huntington, White Oak, Encina, Eclipse, Triumph), wrote a send-ready outreach email with deal stats + AR collateral profile, and wrote a verbal add-on script for Kirk Beason (fold the ABL ask into the SBA pre-qual call). No web search needed — everything pulled from existing deal context.
 **Output:** `memory/abl-outreach-draft.md`
 **Next step for JB:** (1) When you call Kirk Beason at Huntington for the SBA pre-qual, add the 3-sentence ABL ask at the end of the call — script is ready. (2) Review the outreach email — if it looks good, send to White Oak Business Capital or Encina Business Credit. Both are specialty ABL shops that know construction services AR cold.
+
+## 2026-03-28 — GFS SafeGuard Customer Email Templates
+**Why I did this:** SafeGuard is the #4 priority and the biggest post-close revenue lever. The Service Sales Rep needs a conversion sequence ready to run on Day 1. All context was in gfs-safeguard-program.md — zero research needed.
+**What I did:** Built 3 send-ready email templates for the SafeGuard conversion campaign: (1) cold outreach to existing GFS customers with no current service contract, (2) 3-day follow-up with compliance framing, (3) proposal follow-up after no response. Included rep notes on personalization (pull install year + system type from GFS job database), follow-up sequencing, and next steps.
+**Output:** `memory/safeguard-customer-emails.md`
+**Next step for JB:** These are ready for the Service Sales Rep to use on Day 1 post-close. Before that: get the GFS completed job list from Danny Martinez — that's the conversion database. Also need a proposal template (one-pager per building per tier) — add to backlog.

@@ -86,7 +86,7 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 - [ ] Find the top 5 emergency preparedness influencers on social for Resolved collab
 - [ ] Pull public financial data on FireTron Inc. (potential acquisition)
 - [ ] Build the Service Sales Rep job description for GFS
-- [ ] Draft the first GFS SafeGuard customer email template
+- [x] Draft the first GFS SafeGuard customer email template ✅ (2026-03-28)
 - [ ] Research NICET certification requirements for Texas inspection techs
 - [ ] Research Clint Coons LLC structure for JB's RE portfolio (2 rentals + Starbucks + PE fund)
 - [ ] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property
