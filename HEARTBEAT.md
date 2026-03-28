@@ -82,7 +82,7 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 - [ ] Research Resolved Family competitors — what are they doing that's working?
 - [x] Draft investor one-pager for the $400K raise ✅ (2026-03-24) → gfs-investor-one-pager.md
 - [x] Build the GFS investor deck outline ✅ (2026-03-28) → memory/gfs-investor-deck-outline.md
-- [ ] Research Scam Hotline monetization models (courses, certifications, partnerships)
+- [x] Research Scam Hotline monetization models (courses, certifications, partnerships) ✅ (2026-03-28) → memory/scam-hotline-monetization.md
 - [ ] Find the top 5 emergency preparedness influencers on social for Resolved collab
 - [ ] Pull public financial data on FireTron Inc. (potential acquisition)
 - [x] Build the Service Sales Rep job description for GFS ✅ (2026-03-28) → memory/gfs-service-sales-rep-jd.md
