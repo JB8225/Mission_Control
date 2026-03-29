@@ -92,5 +92,5 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 - [x] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property ✅ (2026-03-24) → memory/llc-structure-recommendation.md
 - [x] Draft CPA talking points for POCO catch-up filing + Town Bluff bad debt write-off ✅ (2026-03-28) → memory/cpa-talking-points.md
 - [x] Research top NNN commercial brokers in Missouri, Texas, Colorado specializing in Starbucks/QSR exits and 1031 exchanges — build a list of 5-10 with contact info ✅ (2026-03-24) → memory/nnn-brokers.md
-- [ ] Research 1031 exchange strategy for Starbucks property — timing, replacement property criteria, timeline requirements
+- [x] Research 1031 exchange strategy for Starbucks property — timing, replacement property criteria, timeline requirements ✅ (2026-03-29) → memory/1031-exchange-strategy.md
 - [x] Build JB Personal Financial Statement (PFS) formatted for SBA banker submission ✅ (2026-03-24) → jb-personal-financial-statement.md
