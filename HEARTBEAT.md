@@ -1,5 +1,6 @@
-# HEARTBEAT — Nightly Autonomous Work
-## Runs at 2am CST (8am UTC)
+# HEARTBEAT — Autonomous Work
+## Nightly task runs at 2am CST (8am UTC)
+## Cost note: Keep responses SHORT. Use Haiku model. Only act if something is genuinely urgent or a backlog task is available. Otherwise HEARTBEAT_OK immediately.
 
 ---
 
