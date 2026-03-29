@@ -87,7 +87,7 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 - [ ] Pull public financial data on FireTron Inc. (potential acquisition)
 - [x] Build the Service Sales Rep job description for GFS ✅ (2026-03-28) → memory/gfs-service-sales-rep-jd.md
 - [x] Draft the first GFS SafeGuard customer email template ✅ (2026-03-28) → memory/safeguard-customer-emails.md
-- [ ] Research NICET certification requirements for Texas inspection techs
+- [x] Research NICET certification requirements for Texas inspection techs ✅ (2026-03-29) → memory/nicet-certification-guide.md
 - [x] Research Clint Coons LLC structure for JB's RE portfolio (2 rentals + Starbucks + PE fund) ✅ (2026-03-24) → memory/llc-structure-recommendation.md
 - [x] Build recommended LLC org chart: Wyoming HoldCo → operating LLCs for each property ✅ (2026-03-24) → memory/llc-structure-recommendation.md
 - [x] Draft CPA talking points for POCO catch-up filing + Town Bluff bad debt write-off ✅ (2026-03-28) → memory/cpa-talking-points.md
