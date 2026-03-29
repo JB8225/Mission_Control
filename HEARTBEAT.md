@@ -77,7 +77,7 @@ If JB hasn't uploaded statements recently, Bruce says: "No new statements. Uploa
 - [x] Research Live Oak Bank SBA acquisition case studies — what do they look for? ✅ (2026-03-25) → memory/live-oak-sba-research.md
 - [x] Build the Woody meeting agenda (minute by minute) ✅ (2026-03-26) → woody-meeting-agenda.md
 - [x] Draft the ABL lender outreach email (ready to send) ✅ (2026-03-27) → memory/abl-outreach-draft.md
-- [ ] Research InspectPoint pricing and setup requirements
+- [x] Research InspectPoint pricing and setup requirements ✅ (2026-03-29) → memory/inspectpoint-setup-guide.md
 - [x] Build a monitoring partner comparison table (Monitoring America vs COPS vs Affiliated) ✅ (2026-03-28) → memory/monitoring-partner-comparison.md
 - [ ] Research Resolved Family competitors — what are they doing that's working?
 - [x] Draft investor one-pager for the $400K raise ✅ (2026-03-24) → gfs-investor-one-pager.md
