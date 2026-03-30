@@ -29,7 +29,9 @@
       "tasks": [
         { "id": "w1", "text": "Drive both Fort Worth houses", "detail": "4617 Buffalo Bend Pl + 6401 Poco Ct — check on condition", "category": "Real Estate", "priority": "orange", "done": false },
         { "id": "w2", "text": "Prepare Room #4 for re-rent", "detail": "Clean, photograph, post listing online", "category": "Real Estate", "priority": "orange", "done": false },
-        { "id": "w3", "text": "Order dumpster for garage cleanout", "detail": "This week or next — clear the garage", "category": "Personal", "priority": "green", "done": false }
+        { "id": "w3", "text": "Order dumpster for garage cleanout", "detail": "This week or next — clear the garage", "category": "Personal", "priority": "green", "done": false },
+        { "id": "w4", "text": "Schedule window washers", "detail": "Call 2-3 local services, get quotes, book appointment — spring cleaning", "category": "Personal", "priority": "green", "done": false },
+        { "id": "w5", "text": "Schedule tree trimmers", "detail": "Call local arborist/tree service, get quote, book — spring cleanup", "category": "Personal", "priority": "green", "done": false }
       ]
     },
     {
