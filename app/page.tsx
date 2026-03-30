@@ -5,6 +5,8 @@ import Link from 'next/link'
 import commandData from '@/data/command.json'
 
 const quickLinks = [
+  { href: '/schedule', icon: '🗓️', label: 'Daily Schedule' },
+  { href: '/documents', icon: '📁', label: 'Documents' },
   { href: '/tasks', icon: '✅', label: 'Task Board' },
   { href: '/deals', icon: '🏗️', label: 'Deal Tracker' },
   { href: '/revenue', icon: '📈', label: 'Revenue' },

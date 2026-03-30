@@ -1,0 +1,60 @@
+{
+  "weekOf": "2026-03-30",
+  "days": [
+    {
+      "id": "mon",
+      "label": "Monday",
+      "date": "March 30",
+      "tasks": [
+        { "id": "m1", "text": "Call John Randall — Live Oak Bank", "detail": "317-775-0344 | Pre-qual for GFS SBA 7(a)", "category": "GFS", "priority": "red", "done": false },
+        { "id": "m2", "text": "Call Kirk Beason — Huntington Bank", "detail": "972-707-4109 | Pre-qual for GFS SBA 7(a)", "category": "GFS", "priority": "red", "done": false },
+        { "id": "m3", "text": "Cancel PadSplit account", "detail": "padsplit.com → Account Settings → Cancel", "category": "Personal", "priority": "orange", "done": false },
+        { "id": "m4", "text": "Upload bank + credit card statements", "detail": "Send to Ace via Telegram so Bruce can update PFS", "category": "Finance", "priority": "orange", "done": false }
+      ]
+    },
+    {
+      "id": "tue",
+      "label": "Tuesday",
+      "date": "March 31",
+      "tasks": [
+        { "id": "t1", "text": "Order Weber Searwood XL pellet grill", "detail": "Ace Hardware first, or Weber.com / Home Depot", "category": "Personal", "priority": "orange", "done": false },
+        { "id": "t2", "text": "Resolved webhook fix", "detail": "Open Claude Code → load resolved-webhook-fix.md → follow steps", "category": "Resolved", "priority": "red", "done": false },
+        { "id": "t3", "text": "Work on GFS numbers with Ace", "detail": "DSCR model, investor returns, or PFS fill-in", "category": "GFS", "priority": "orange", "done": false }
+      ]
+    },
+    {
+      "id": "wed",
+      "label": "Wednesday",
+      "date": "April 1",
+      "tasks": [
+        { "id": "w1", "text": "Drive both Fort Worth houses", "detail": "4617 Buffalo Bend Pl + 6401 Poco Ct — check on condition", "category": "Real Estate", "priority": "orange", "done": false },
+        { "id": "w2", "text": "Prepare Room #4 for re-rent", "detail": "Clean, photograph, post listing online", "category": "Real Estate", "priority": "orange", "done": false },
+        { "id": "w3", "text": "Order dumpster for garage cleanout", "detail": "This week or next — clear the garage", "category": "Personal", "priority": "green", "done": false }
+      ]
+    },
+    {
+      "id": "thu",
+      "label": "Thursday",
+      "date": "April 2",
+      "tasks": [
+        { "id": "th1", "text": "Book 2x banker 30-min meetings", "detail": "Follow up from Monday calls — get on calendar this week", "category": "GFS", "priority": "red", "done": false },
+        { "id": "th2", "text": "Schedule Woody meeting", "detail": "Target week of April 6 — text Benji first for warm intro", "category": "GFS", "priority": "orange", "done": false },
+        { "id": "th3", "text": "Start organizing taxes + LLCs", "detail": "Pull POCO filings (2 yrs behind), personal returns for banker", "category": "Finance", "priority": "orange", "done": false },
+        { "id": "th4", "text": "Sharpen knives", "detail": "At home, machine — 20 minutes", "category": "Personal", "priority": "green", "done": false }
+      ]
+    },
+    {
+      "id": "fri",
+      "label": "Friday",
+      "date": "April 3",
+      "tasks": [
+        { "id": "f1", "text": "Close March books — month-end accounting", "detail": "Reconcile all accounts, close out March", "category": "Finance", "priority": "orange", "done": false },
+        { "id": "f2", "text": "Yard taken care of", "detail": "Mow / maintenance", "category": "Personal", "priority": "green", "done": false },
+        { "id": "f3", "text": "Review incomplete tasks — reschedule", "detail": "Anything not done moves to next week with a plan", "category": "Admin", "priority": "green", "done": false }
+      ]
+    }
+  ],
+  "deadlines": [
+    { "date": "April 9", "text": "USAA payment — $13,125.95", "urgent": true }
+  ]
+}

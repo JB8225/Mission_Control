@@ -1,0 +1,72 @@
+{
+  "categories": [
+    {
+      "id": "gfs",
+      "label": "GFS Fire Pros — Acquisition",
+      "icon": "🏗️",
+      "color": "blue",
+      "docs": [
+        { "title": "Deal Context & Structure", "desc": "Full ownership breakdown, deal terms, timeline", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/gfs-deal-context.md" },
+        { "title": "GFS Financials", "desc": "$19.1M revenue, $2.94M EBITDA, 3-year breakdown", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/gfs-financials.md" },
+        { "title": "Banker Call Prep", "desc": "Script, voicemail, Q&A, John Randall + Kirk Beason", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/banker-call-prep.md" },
+        { "title": "Woody Meeting Agenda", "desc": "45-min playbook, minute by minute", "url": "https://github.com/JB8225/Mission_Control/blob/master/woody-meeting-agenda.md" },
+        { "title": "Investor One-Pager", "desc": "$400K raise — investor returns and structure", "url": "https://github.com/JB8225/Mission_Control/blob/master/gfs-investor-one-pager.md" },
+        { "title": "GFS Investor Deck Outline", "desc": "15-slide deck outline", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/gfs-investor-deck-outline.md" },
+        { "title": "SafeGuard Program", "desc": "Subscription monitoring program — full plan", "url": "https://github.com/JB8225/Mission_Control/blob/master/gfs-safeguard-program.md" },
+        { "title": "Banker Teaser", "desc": "One-page deal summary for lenders", "url": "https://github.com/JB8225/Mission_Control/blob/master/gfs-banker-teaser.md" },
+        { "title": "Woody One-Pager", "desc": "Growth pitch for Woody — why now, why JB", "url": "https://github.com/JB8225/Mission_Control/blob/master/gfs-woody-one-pager.md" },
+        { "title": "Live Oak SBA Research", "desc": "What Live Oak looks for in acquisitions", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/live-oak-sba-research.md" },
+        { "title": "ABL Lender Outreach Draft", "desc": "Ready-to-send email for ABL lenders", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/abl-outreach-draft.md" },
+        { "title": "Diane One-Pager", "desc": "Emotional anchor — Woody's wife, key decision maker", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/diane-one-pager.md" },
+        { "title": "Service Sales Rep JD", "desc": "Job description for post-close hire", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/gfs-service-sales-rep-jd.md" },
+        { "title": "InspectPoint Setup Guide", "desc": "Day 1 software setup for SafeGuard", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/inspectpoint-setup-guide.md" },
+        { "title": "Monitoring Partner Comparison", "desc": "COPS vs Monitoring America vs Affiliated", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/monitoring-partner-comparison.md" }
+      ]
+    },
+    {
+      "id": "finance",
+      "label": "Finance & Credit",
+      "icon": "💰",
+      "color": "yellow",
+      "docs": [
+        { "title": "Personal Financial Statement (PFS)", "desc": "SBA-formatted net worth statement — needs [FILL IN] fields", "url": "https://github.com/JB8225/Mission_Control/blob/master/jb-personal-financial-statement.md" },
+        { "title": "Credit Profile", "desc": "FICO 750 ✅ | All 4 cards | April 9 USAA deadline", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/jb-credit-profile.md" },
+        { "title": "CPA Talking Points", "desc": "POCO catch-up filing + Town Bluff bad debt write-off", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/cpa-talking-points.md" }
+      ]
+    },
+    {
+      "id": "realestate",
+      "label": "Real Estate",
+      "icon": "🏠",
+      "color": "green",
+      "docs": [
+        { "title": "Starbucks / WeLoveLucy Context", "desc": "662 Chippewa St, St. Louis — NNN exit strategy", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/starbucks-welovelucy.md" },
+        { "title": "NNN Broker List", "desc": "Jason Simon + top 5-10 NNN brokers for Starbucks exit", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/nnn-brokers.md" },
+        { "title": "Jason Simon Meeting Prep", "desc": "Prep for week of March 30 broker meeting", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/jason-simon-meeting-prep.md" },
+        { "title": "1031 Exchange Strategy", "desc": "Timing, replacement property, timeline requirements", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/1031-exchange-strategy.md" },
+        { "title": "LLC Structure Recommendation", "desc": "Wyoming HoldCo → operating LLCs for RE portfolio", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/llc-structure-recommendation.md" }
+      ]
+    },
+    {
+      "id": "resolved",
+      "label": "Resolved Family",
+      "icon": "🛡️",
+      "color": "purple",
+      "docs": [
+        { "title": "Resolved Context", "desc": "Full product context, stack, funnel, target MRR", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/resolved-context.md" },
+        { "title": "Scam Hotline Monetization", "desc": "Courses, certifications, partnership models", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/scam-hotline-monetization.md" }
+      ]
+    },
+    {
+      "id": "continuity",
+      "label": "Command Docs",
+      "icon": "📋",
+      "color": "slate",
+      "docs": [
+        { "title": "Master Continuity Doc", "desc": "Full rebuild document — everything if systems reset", "url": "https://github.com/JB8225/Mission_Control/blob/master/MASTER_CONTINUITY.md" },
+        { "title": "Ace Operational Summary", "desc": "Every business, agent, rule, and gap as of March 29", "url": "https://github.com/JB8225/Mission_Control/blob/master/ACE_OPERATIONAL_SUMMARY.md" },
+        { "title": "Weekly To-Do List", "desc": "Week of March 30 — scheduled by day", "url": "https://github.com/JB8225/Mission_Control/blob/master/memory/weekly-todos-2026-03-30.md" }
+      ]
+    }
+  ]
+}
