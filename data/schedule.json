@@ -57,7 +57,6 @@
     }
   ],
   "deadlines": [
-    { "date": "April 9", "text": "USAA payment — $13,125.95", "urgent": true },
     { "date": "April 8", "text": "Call John Randall (Live Oak) — banker pre-qual voicemail READY", "urgent": true },
     { "date": "April 8", "text": "Engage M&A attorney — structure + ownership docs", "urgent": true }
   ]

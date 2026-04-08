@@ -17,7 +17,7 @@
       "title": "In Progress",
       "tasks": [
         { "id": 6, "title": "Call Live Oak Bank — banker pre-qual", "assignee": "JB", "priority": "red", "project": "GFS" },
-        { "id": 19, "title": "Pay USAA before April 9 deadline", "assignee": "JB", "priority": "red", "project": "Finance" },
+        { "id": 19, "title": "Pay USAA before April 9 deadline", "assignee": "JB", "priority": "green", "project": "Finance" },
         { "id": 26, "title": "Engage M&A attorney — finalize structure", "assignee": "JB", "priority": "red", "project": "GFS" }
       ]
     },
@@ -51,6 +51,7 @@
     }
   ],
   "activityFeed": [
+    { "time": "Apr 8", "action": "USAA ✅ PAID IN FULL" },
     { "time": "Apr 8", "action": "Resolved webhook ✅ COMPLETE — full funnel live and ready for beta" },
     { "time": "Apr 8", "action": "M&A attorney engagement — PRIORITY #2 (after banker call)" },
     { "time": "Apr 7", "action": "Banker call voicemail — READY TO DELIVER (John Randall, Live Oak)" },
