@@ -18,7 +18,7 @@
       "date": "March 31",
       "tasks": [
         { "id": "t1", "text": "Order Weber Searwood XL pellet grill", "detail": "Ace Hardware first, or Weber.com / Home Depot", "category": "Personal", "priority": "orange", "done": false },
-        { "id": "t2", "text": "Resolved webhook fix", "detail": "Open Claude Code → load resolved-webhook-fix.md → follow steps", "category": "Resolved", "priority": "red", "done": false },
+        { "id": "t2", "text": "Resolved webhook fix", "detail": "✅ COMPLETE — full funnel live", "category": "Resolved", "priority": "green", "done": true },
         { "id": "t3", "text": "Work on GFS numbers with Ace", "detail": "DSCR model, investor returns, or PFS fill-in", "category": "GFS", "priority": "orange", "done": false }
       ]
     },
@@ -57,6 +57,8 @@
     }
   ],
   "deadlines": [
-    { "date": "April 9", "text": "USAA payment — $13,125.95", "urgent": true }
+    { "date": "April 9", "text": "USAA payment — $13,125.95", "urgent": true },
+    { "date": "April 8", "text": "Call John Randall (Live Oak) — banker pre-qual voicemail READY", "urgent": true },
+    { "date": "April 8", "text": "Engage M&A attorney — structure + ownership docs", "urgent": true }
   ]
 }

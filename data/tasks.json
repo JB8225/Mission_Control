@@ -7,7 +7,7 @@
         { "id": 2, "title": "Draft LOI template for GFS", "assignee": "Ace", "priority": "orange", "project": "GFS" },
         { "id": 3, "title": "Build Scam Hotline monetization plan", "assignee": "JB", "priority": "green", "project": "Scam Hotline" },
         { "id": 4, "title": "Identify M&A attorney candidates", "assignee": "Ace", "priority": "orange", "project": "GFS" },
-        { "id": 16, "title": "Fix Resolved webhook integration", "assignee": "JB", "priority": "red", "project": "Resolved" },
+        { "id": 16, "title": "Deploy Resolved — full funnel live", "assignee": "JB", "priority": "red", "project": "Resolved" },
         { "id": 17, "title": "Finalize ownership % structure with attorney", "assignee": "JB", "priority": "orange", "project": "GFS" },
         { "id": 18, "title": "Complete JB Personal Financial Statement (PFS)", "assignee": "JB", "priority": "orange", "project": "GFS" }
       ]
@@ -17,7 +17,8 @@
       "title": "In Progress",
       "tasks": [
         { "id": 6, "title": "Call Live Oak Bank — banker pre-qual", "assignee": "JB", "priority": "red", "project": "GFS" },
-        { "id": 19, "title": "Pay USAA before April 14 deadline", "assignee": "JB", "priority": "red", "project": "Finance" }
+        { "id": 19, "title": "Pay USAA before April 9 deadline", "assignee": "JB", "priority": "red", "project": "Finance" },
+        { "id": 26, "title": "Engage M&A attorney — finalize structure", "assignee": "JB", "priority": "red", "project": "GFS" }
       ]
     },
     {
@@ -38,6 +39,7 @@
         { "id": 13, "title": "Build deal structure model", "assignee": "Ace", "priority": "green", "project": "GFS" },
         { "id": 14, "title": "Map 11 DFW acquisition targets", "assignee": "Ace", "priority": "green", "project": "GFS" },
         { "id": 15, "title": "Design Mission Control dashboard", "assignee": "Ace", "priority": "green", "project": "GFS" },
+        { "id": 16, "title": "Fix Resolved webhook integration", "assignee": "JB", "priority": "green", "project": "Resolved" },
         { "id": 7, "title": "Pay down Chase card", "assignee": "JB", "priority": "green", "project": "Finance" },
         { "id": 8, "title": "Build GFS SafeGuard subscription program", "assignee": "Ace", "priority": "green", "project": "GFS" },
         { "id": 1, "title": "Research SBA 7(a) / Live Oak requirements", "assignee": "Ace", "priority": "green", "project": "GFS" },
@@ -49,6 +51,9 @@
     }
   ],
   "activityFeed": [
+    { "time": "Apr 8", "action": "Resolved webhook ✅ COMPLETE — full funnel live and ready for beta" },
+    { "time": "Apr 8", "action": "M&A attorney engagement — PRIORITY #2 (after banker call)" },
+    { "time": "Apr 7", "action": "Banker call voicemail — READY TO DELIVER (John Randall, Live Oak)" },
     { "time": "Mar 27", "action": "FICO 750 ✅ — target hit 3 months early (Experian, confirmed)" },
     { "time": "Mar 27", "action": "USAA paid in full — balance $0, statement $13,125.95 due April 9" },
     { "time": "Mar 25", "action": "JB paid Chase 7907 down to $418 — utilization 3%" },
