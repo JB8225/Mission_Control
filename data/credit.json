@@ -16,7 +16,7 @@
       "limit": 27500,
       "utilization": 0,
       "color": "green",
-      "alert": "Statement bal $13,125.95 due April 9"
+      "alert": "✅ PAID IN FULL"
     },
     {
       "name": "Capital One",
@@ -37,7 +37,23 @@
       "alert": null
     }
   ],
-  "overallUtilization": 5,
-  "fico": { "current": 750, "target": 750, "hit": true },
-  "deadline": "2026-04-09T00:00:00"
+  "overallUtilization": 4,
+  "fico": {
+    "current": 779,
+    "target": 750,
+    "achieved": true,
+    "reportDate": "2026-04-21",
+    "improvement": "+29 points from target"
+  },
+  "liquidAssets": {
+    "current": "~$725K",
+    "target": "$500K+",
+    "status": "✅ Verified"
+  },
+  "netWorth": {
+    "current": "~$900K+",
+    "breakdown": "Liquid + RE equity + investments"
+  },
+  "statusSummary": "All cards paid to $0. FICO 779 (Experian, Apr 21). Banker-ready credit position.",
+  "nextAction": "Maintain $0 utilization; provide updated PFS with FICO 779 to bankers"
 }

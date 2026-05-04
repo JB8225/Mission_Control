@@ -8,22 +8,36 @@
     { "id": "postclose", "label": "Post-Close", "active": false }
   ],
   "currentStage": "prequal",
+  "stageStatus": "Banker intro calls (May 4) → Deep dives Tue-Fri → Woody meeting (next week)",
   "checklist": [
     { "id": 1, "text": "Tax returns ready", "done": true },
     { "id": 2, "text": "Benji called Woody", "done": true },
     { "id": 3, "text": "Deal structure built", "done": true },
-    { "id": 4, "text": "Banker pre-qual", "done": false, "blocking": true },
-    { "id": 5, "text": "Woody meeting scheduled", "done": false, "blocking": false }
+    { "id": 4, "text": "PFS updated (FICO 779)", "done": true },
+    { "id": 5, "text": "Deal Snapshot created", "done": true },
+    { "id": 6, "text": "Banker intro calls (Mon 5/4)", "done": false, "blocking": true },
+    { "id": 7, "text": "Banker deep dive calls (Tue-Fri)", "done": false, "blocking": true },
+    { "id": 8, "text": "M&A attorney engagement", "done": false, "blocking": true },
+    { "id": 9, "text": "Woody meeting scheduled", "done": false, "blocking": false }
   ],
   "stats": [
-    { "label": "Purchase Price", "value": "$10M" },
-    { "label": "Revenue", "value": "$19.1M" },
-    { "label": "EBITDA", "value": "$2.94M" },
-    { "label": "DSCR", "value": "2.32x" },
-    { "label": "Target Close", "value": "90-120 days" }
+    { "label": "Company", "value": "Jarmon Services (GFS Fire Pros)" },
+    { "label": "Purchase Price", "value": "$11.4M" },
+    { "label": "Revenue (2025)", "value": "$19.1M" },
+    { "label": "EBITDA (2025)", "value": "$2.649M" },
+    { "label": "DSCR (Year 1)", "value": "2.9x" },
+    { "label": "Close Target", "value": "June 30, 2026" }
+  ],
+  "financing": [
+    { "source": "SBA 7(a)", "amount": "$5.0M", "rate": "Prime+2.75%", "term": "10 years" },
+    { "source": "SBA 504", "amount": "$2.025M", "rate": "6.5-7.5%", "term": "20 years" },
+    { "source": "Seller Note", "amount": "$2.528M", "rate": "7%", "term": "5 years" },
+    { "source": "Investor Equity", "amount": "$500K", "ownership": "25%" }
   ],
   "contacts": [
-    { "name": "John Randall", "company": "Live Oak Bank", "phone": "317-775-0344" },
-    { "name": "Kirk Beason", "company": "Veritex", "phone": "972-707-4109" }
+    { "name": "Kirk Beason", "company": "Huntington National Bank", "title": "EVP SBA Lending", "phone": "972-707-4109", "status": "Call today" },
+    { "name": "Paul Moreno", "company": "Live Oak Bank", "title": "SVP", "phone": "[in PFS]", "status": "Primary lender (in dialogue)" },
+    { "name": "[TBD]", "company": "Newtek Bank", "title": "BDO Dallas", "phone": "[research needed]", "status": "Call today" },
+    { "name": "[TBD]", "company": "Frost Bank", "title": "Commercial SBA", "phone": "[research needed]", "status": "Call today" }
   ]
 }

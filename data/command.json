@@ -1,16 +1,19 @@
 {
   "greeting": "Good morning, JB",
+  "date": "Monday, May 4, 2026",
+  "time": "10:17 AM CST",
   "mission": "Build a $100M portfolio through smart acquisitions, recurring revenue, and an autonomous AI team that works 24/7.",
+  "oneBigThing": "Schedule 3 SBA lenders for Tue-Fri deep dives (intro calls today, Mon)",
   "priorities": [
-    { "id": 1, "text": "Call Live Oak Bank — John Randall 317-775-0344 — banker pre-qual", "done": false },
-    { "id": 2, "text": "Pay USAA statement $13,125.95 by April 9", "done": false },
-    { "id": 3, "text": "Send NNN broker emails — 3 drafts ready at joel@bouckmail.com", "done": false }
+    { "id": 1, "text": "Make 3 banker intro calls TODAY — Kirk Beason (Huntington), Newtek BDO, Frost Bank", "done": false, "dueDate": "2026-05-04" },
+    { "id": 2, "text": "Confirm all 3 lenders scheduled for Tue-Fri (20-30 min each)", "done": false, "dueDate": "2026-05-04" },
+    { "id": 3, "text": "Email Deal Snapshot + PFS (FICO 779) to each banker after confirmation", "done": false, "dueDate": "2026-05-04" }
   ],
   "scorecard": [
-    { "label": "Monthly Cash Flow", "current": "$3,700", "target": "$25,000/mo", "status": "danger", "note": "24-month goal — before kids finish college" },
-    { "label": "FICO Score", "current": "750 ✅", "target": "750", "status": "success" },
-    { "label": "GFS Deal Stage", "current": "Pre-Banker", "target": "LOI", "status": "warning" },
-    { "label": "Resolved MRR", "current": "$0", "target": "$5K", "status": "danger" },
-    { "label": "Banker Status", "current": "Not Started", "target": "Pre-Qualified", "status": "danger" }
+    { "label": "One Big Thing (Week)", "current": "0/3 lenders called", "target": "3 lenders scheduled Tue-Fri", "status": "danger" },
+    { "label": "GFS Banker Status", "current": "Pre-qual intro calls", "target": "Deep dives scheduled", "status": "warning" },
+    { "label": "Resolved Launch", "current": "Webhook ready (Apr 8)", "target": "Meta ads by May 11", "status": "warning" },
+    { "label": "FICO Score", "current": "779 ✅", "target": "750", "status": "success" },
+    { "label": "Credit Utilization", "current": "~5%", "target": "<10%", "status": "success" }
   ]
 }

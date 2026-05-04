@@ -4,69 +4,51 @@
       "id": "backlog",
       "title": "Backlog",
       "tasks": [
-        { "id": 2, "title": "Draft LOI template for GFS", "assignee": "Ace", "priority": "orange", "project": "GFS" },
-        { "id": 3, "title": "Build Scam Hotline monetization plan", "assignee": "JB", "priority": "green", "project": "Scam Hotline" },
-        { "id": 4, "title": "Identify M&A attorney candidates", "assignee": "Ace", "priority": "orange", "project": "GFS" },
-        { "id": 16, "title": "Deploy Resolved — full funnel live", "assignee": "JB", "priority": "red", "project": "Resolved" },
-        { "id": 17, "title": "Finalize ownership % structure with attorney", "assignee": "JB", "priority": "orange", "project": "GFS" },
-        { "id": 18, "title": "Complete JB Personal Financial Statement (PFS)", "assignee": "JB", "priority": "orange", "project": "GFS" }
+        { "id": 30, "title": "Engage M&A attorney — structure + equity rollback", "assignee": "JB", "priority": "orange", "project": "GFS", "dueDate": "2026-05-07" },
+        { "id": 31, "title": "Fix Resolved webhook (Claude Code session)", "assignee": "JB", "priority": "orange", "project": "Resolved", "dueDate": "2026-05-06" },
+        { "id": 32, "title": "Approve + send Mark Ciardi movie email (Wave 1)", "assignee": "JB", "priority": "orange", "project": "Movie" },
+        { "id": 33, "title": "Schedule Woody meeting (post-banker calls)", "assignee": "JB", "priority": "green", "project": "GFS", "dueDate": "2026-05-15" },
+        { "id": 34, "title": "Hire VA for accountability ($60-150/mo)", "assignee": "JB", "priority": "green", "project": "Ops", "dueDate": "2026-05-10" }
       ]
     },
     {
       "id": "in-progress",
       "title": "In Progress",
       "tasks": [
-        { "id": 6, "title": "Call Live Oak Bank — banker pre-qual", "assignee": "JB", "priority": "red", "project": "GFS" },
-        { "id": 19, "title": "Pay USAA before April 9 deadline", "assignee": "JB", "priority": "green", "project": "Finance" },
-        { "id": 26, "title": "Engage M&A attorney — finalize structure", "assignee": "JB", "priority": "red", "project": "GFS" }
+        { "id": 28, "title": "Call 3 SBA lenders (Kirk Beason, Newtek, Frost) — intro", "assignee": "JB", "priority": "red", "project": "GFS", "dueDate": "2026-05-04" },
+        { "id": 29, "title": "Email Deal Snapshot + PFS to confirmed bankers", "assignee": "JB", "priority": "red", "project": "GFS", "dueDate": "2026-05-04" }
       ]
     },
     {
       "id": "review",
       "title": "Review",
       "tasks": [
-        { "id": 9, "title": "GFS Banker Teaser One-Pager", "assignee": "Ace", "priority": "red", "project": "GFS" },
-        { "id": 10, "title": "Woody One-Pager (Cash Offer Rebuttal)", "assignee": "Ace", "priority": "red", "project": "GFS" },
-        { "id": 20, "title": "GFS Investor One-Pager ($400K raise)", "assignee": "Ace", "priority": "orange", "project": "GFS" },
-        { "id": 21, "title": "JB Personal Financial Statement (PFS)", "assignee": "Ace", "priority": "orange", "project": "GFS" }
+        { "id": 35, "title": "Movie: Mark Ciardi producer email draft", "assignee": "Ace", "priority": "orange", "project": "Movie" },
+        { "id": 36, "title": "Resolved: Full pre-launch sprint checklist", "assignee": "Ace", "priority": "orange", "project": "Resolved" }
       ]
     },
     {
       "id": "done",
-      "title": "Done",
+      "title": "Done (May 4)",
       "tasks": [
-        { "id": 12, "title": "Analyze GFS 3-year financials", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 13, "title": "Build deal structure model", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 14, "title": "Map 11 DFW acquisition targets", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 15, "title": "Design Mission Control dashboard", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 16, "title": "Fix Resolved webhook integration", "assignee": "JB", "priority": "green", "project": "Resolved" },
-        { "id": 7, "title": "Pay down Chase card", "assignee": "JB", "priority": "green", "project": "Finance" },
-        { "id": 8, "title": "Build GFS SafeGuard subscription program", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 1, "title": "Research SBA 7(a) / Live Oak requirements", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 22, "title": "NNN broker research (Starbucks exit)", "assignee": "Ace", "priority": "green", "project": "Finance" },
-        { "id": 23, "title": "Wyoming LLC structure recommendation", "assignee": "Ace", "priority": "green", "project": "Finance" },
-        { "id": 24, "title": "DFW independent security partner research", "assignee": "Ace", "priority": "green", "project": "GFS" },
-        { "id": 25, "title": "Live Oak SBA pre-call briefing", "assignee": "Ace", "priority": "green", "project": "GFS" }
+        { "id": 27, "title": "Create GFS Deal Snapshot for banker email", "assignee": "Ace", "priority": "green", "project": "GFS", "completed": "2026-05-04" },
+        { "id": 26, "title": "Create GFS Lender Contact Sheet + scripts", "assignee": "Ace", "priority": "green", "project": "GFS", "completed": "2026-05-04" },
+        { "id": 25, "title": "Sync Mission Control data to May 4", "assignee": "Ace", "priority": "green", "project": "Ops", "completed": "2026-05-04" }
       ]
     }
   ],
   "activityFeed": [
-    { "time": "Apr 8", "action": "USAA ✅ PAID IN FULL" },
-    { "time": "Apr 8", "action": "Resolved webhook ✅ COMPLETE — full funnel live and ready for beta" },
-    { "time": "Apr 8", "action": "M&A attorney engagement — PRIORITY #2 (after banker call)" },
-    { "time": "Apr 7", "action": "Banker call voicemail — READY TO DELIVER (John Randall, Live Oak)" },
-    { "time": "Mar 27", "action": "FICO 750 ✅ — target hit 3 months early (Experian, confirmed)" },
-    { "time": "Mar 27", "action": "USAA paid in full — balance $0, statement $13,125.95 due April 9" },
-    { "time": "Mar 25", "action": "JB paid Chase 7907 down to $418 — utilization 3%" },
-    { "time": "Mar 25", "action": "Mission Control connected to GitHub + Netlify — live dashboard active" },
-    { "time": "Mar 25", "action": "Ace completed Live Oak SBA pre-call briefing" },
-    { "time": "Mar 24", "action": "Ace built GFS Investor One-Pager ($400K raise)" },
-    { "time": "Mar 24", "action": "Ace researched DFW independent security partners" },
-    { "time": "Mar 24", "action": "Ace built Wyoming LLC structure recommendation" },
-    { "time": "Mar 24", "action": "Ace researched top NNN brokers for Starbucks exit" },
-    { "time": "Mar 24", "action": "Ace built JB Personal Financial Statement (PFS)" },
-    { "time": "Mar 23", "action": "Ace analyzed GFS 3-year financials + deal structure" },
-    { "time": "Mar 23", "action": "Ace built GFS SafeGuard subscription program" },
-    { "time": "Mar 23", "action": "Ace mapped 11 DFW acquisition targets" }
+    { "time": "May 4, 10am", "action": "📋 Ace: GFS Deal Snapshot created + in Mission Control" },
+    { "time": "May 4, 10am", "action": "📋 Ace: Created banker contact sheet + call scripts" },
+    { "time": "May 4, 10am", "action": "🎯 ONE BIG THING: Schedule 3 SBA lenders Tue-Fri (intro calls TODAY)" },
+    { "time": "May 3, 8pm", "action": "📊 Personal Operating System locked (One Big Thing, Daily 3, Parking Lot, Decided, Friday Review)" },
+    { "time": "May 3, 8pm", "action": "🎯 Accountability system: Hire VA ($60-150/mo) or Ace temporary (Sun/Wed/Fri)" },
+    { "time": "Apr 21", "action": "FICO 779 ✅ — new high (Experian, +29 points from target)" },
+    { "time": "Apr 8", "action": "USAA ✅ PAID IN FULL — all cards paid to $0" },
+    { "time": "Apr 8", "action": "Resolved webhook ✅ COMPLETE — full funnel live, ready for beta" },
+    { "time": "Apr 1", "action": "Personal operating system 1.0 — One Big Thing + Daily 3 framework" },
+    { "time": "Mar 27", "action": "FICO 750 ✅ — target hit 3 months early (Experian)" },
+    { "time": "Mar 25", "action": "Mission Control deployed to Netlify — dashboard live" },
+    { "time": "Mar 23", "action": "GFS deal structure finalized — ownership 100% confirmed" }
   ]
 }
